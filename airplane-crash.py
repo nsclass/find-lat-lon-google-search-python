@@ -46,7 +46,7 @@ def extract_lat_lon(location):
 
 
 def write_output(output):
-    with open('/Users/nsclass/Documents/airplane-crash-result.csv', 'w') as file:
+    with open('airplane-crash-result.csv', 'w') as file:
         for line in output:
             file.write(line + "\n")
 
@@ -60,7 +60,7 @@ def normalize_str(row):
 
 
 def enrich_lat_lon_airplane_crash():
-    with open('/Users/nsclass/Documents/airplane-crash.csv', 'r') as file:
+    with open('airplane-crash.csv', 'r') as file:
         output = []
         rows = csv.reader(file)
         output.append(str(next(rows, None)))

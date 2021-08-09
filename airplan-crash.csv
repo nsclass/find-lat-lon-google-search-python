@@ -1,0 +1,1378 @@
+Total,Crew,Passenger,Ground,Type,Incident,Aircraft,Location,Phase,Airport,Distance,
+"1,700",11,81,"1,600",INH,American Airlines Flight 11,Boeing 767-223ER,"New York City, New York, U.S.","ENR
+[11]",,,2001-09-11
+"1,000",9,56,900,INH,United Airlines Flight 175,Boeing 767-222,"New York City, New York, U.S.","ENR
+[12]",,,2001-09-11
+583,23,560,0,COM,"Pan Am Flight 1736 and
+KLM Flight 4805",Boeing 747-121 and Boeing 747-206B,"Tenerife, Spain","TXI/TOF
+[10][16][17]",TFN,,1977-03-27
+520,15,505,0,COM,Japan Airlines Flight 123,Boeing 747SR-46,"Ueno, Japan","ENR
+[18][19]",,,1985-08-12
+349,33,316,0,COM,"Saudi Arabian Flight 763 and
+Kazakhstan Airlines Flight 1907",Boeing 747-168B and Ilyushin Il-76TD,"Charkhi Dadri, India","ENR
+[20][21]",,,1996-11-12
+346,11,335,0,COM,Turkish Airlines Flight 981,McDonnell Douglas DC-10-10,"Fontaine-Chaalis, France","ENR
+[22][23]
+[24]",,,1974-03-03
+329,22,307,0,INB,Air India Flight 182,Boeing 747-237B,"Atlantic Ocean, area of Cork, Ireland","ENR
+[25]",,,1985-06-23
+301,14,287,0,COM,Saudia Flight 163,Lockheed L-1011-200 TriStar,"Riyadh, Saudi Arabia","ENR
+[26]",,,1980-08-19
+298,15,283,0,EXG,Malaysia Airlines Flight 17,Boeing 777-2H6ER,"near Hrabove, Donetsk Oblast, Ukraine","ENR
+[27]",,,2014-07-17
+290,16,274,0,EXG,Iran Air Flight 655,Airbus A300B2-203,"Strait of Hormuz, off Shib Deraz, Iran","ENR
+[28]",,,1988-07-03
+275,18,257,0,MIL,Iranian Air Force (15-2280),Ilyushin Il-76MD,"near Kerman, Iran","ENR
+[29]",,,2003-02-19
+273,13,258,2,COM,American Airlines Flight 191,McDonnell Douglas DC-10-10,"Des Plaines, Illinois, U.S.","TOF
+[30][31]
+[32][nb 3]",ORD,"1.4 km
+(0.87 mi)",1979-05-25
+270,16,243,11,INB,Pan Am Flight 103,Boeing 747-121,"Lockerbie, United Kingdom","ENR
+[34]",,,1988-12-21
+269,23,246,0,EXS,Korean Air Lines Flight 007,Boeing 747-230B,"Sea of Japan, near Moneron Island, Russian SFSR, USSR","ENR
+[35]",,,1983-09-01
+265,9,251,5,COM,American Airlines Flight 587,Airbus A300B4-605R,"Belle Harbor, New York City, New York, U.S.","ENR
+[36][37]",,,2001-11-12
+264,15,249,0,COM,China Airlines Flight 140,Airbus A300B4-622R,"Komaki, Japan","APR
+[38][39]",NKM,"<0.1 km
+(0.06 mi)",1994-04-26
+261,14,247,0,COM,Nigeria Airways Flight 2120,McDonnell Douglas DC-8-61,"Jeddah, Saudi Arabia","APR
+[40]",JED,"2.8 km
+(1.7 mi)",1991-07-11
+257,10,247,0,MIL,Algerian Air Force (7T-WIV),Ilyushin Il-76TD,"Boufarik, Algeria","ICL
+[41]",,,2018-04-11
+257,20,237,0,COM,Air New Zealand Flight 901,McDonnell Douglas DC-10-30,"Mount Erebus, Antarctica","ENR
+[32][42]",,,1979-11-28
+256,8,248,0,COM,Arrow Air Flight 1285,McDonnell Douglas DC-8-63CF,"Gander, Newfoundland, Canada","ICL
+[43]",YQX,"1 km
+(0.6 mi)",1985-12-12
+251,2,0,249[nb 4],COM,Air Africa (RA-26222),Antonov An-32B,"Kinshasa, DR Congo (then Zaire)","ICL
+[44][45][46]",NLO,"0.6 km
+(0.4 mi)",1996-01-08
+239,12,227,0,COM,Malaysia Airlines Flight 370,Boeing 777-2H6ER,"Unknown, possibly Indian Ocean","ENR
+[47]",,,2014-03-08
+234,12,222,0,COM,Garuda Indonesia Flight 152,Airbus A300B4-220,"near Medan, Indonesia","APR
+[48]",MES,"32 km
+(20 mi)",1997-09-26
+230,18,212,0,COM,TWA Flight 800,Boeing 747-131,"Atlantic Ocean, off East Moriches, New York, U.S.","ENR
+[49][50]",,,1996-07-17
+229,14,215,0,COM,Swissair Flight 111,McDonnell Douglas MD-11,"Atlantic Ocean, off Peggys Cove, N.S., Canada","ENR
+[51][52]",,,1998-09-02
+229,14,215,0,COM,Korean Air Flight 801,Boeing 747-3B5,"Asan-Maina, Guam, U.S.","APR
+[53][54]",GUM,"4.8 km
+(3 mi)",1997-08-06
+228,12,216,0,COM,Air France Flight 447,Airbus A330-203,"Atlantic Ocean, area of Saint Peter and Saint Paul Archipelago","ENR
+[55]",,,2009-06-01
+225,19,206,0,COM,China Airlines Flight 611,Boeing 747-209B,"Taiwan Strait, near Penghu Islands, Taiwan","ENR
+[56]",,,2002-05-25
+224,7,217,0,INB,Metrojet Flight 9268,Airbus A321-231,"near Hasna, North Sinai Governorate, Egypt","ENR
+[57]",,,2015-10-31
+223,10,213,0,COM,Lauda Air Flight 004,Boeing 767-3Z9ER,"Phu Toei National Park, Thailand","ENR
+[58]",,,1991-05-26
+217,15,202,0,COM,EgyptAir Flight 990,Boeing 767-366ER,"Atlantic Ocean, area of Nantucket, Massachusetts, U.S.","ENR
+[59][nb 6]",,,1999-10-31
+213,23,190,0,COM,Air India Flight 855,Boeing 747-237B,"Arabian Sea, off Mumbai, India","ENR
+[61]",,,1978-01-01
+203,14,182,7,COM,China Airlines Flight 676,Airbus A300B4-622R,"Dayuan District, Taiwan","APR
+[62]",TPE,"0.06 km
+(0.04 mi)",1998-02-16
+200,9,191,0,COM,Aeroflot Flight 7425,Tupolev Tu-154B-2,"near Uchkuduk, Uzbek SSR, USSR","ENR
+[63]",,,1985-07-10
+199,6,181,12,COM,TAM Airlines Flight 3054,Airbus A320-233,"São Paulo, Brazil","LDG
+[64]",CGH,,2007-07-17
+191,9,182,0,COM,Martinair Holland Flight 138,Douglas DC-8-55F,"near Maskeliya, Sri Lanka","ENR
+[65]",,,1974-12-04
+189,8,181,0,COM,Lion Air Flight 610,Boeing 737 MAX 8,"Java Sea, off Tanjungbungin, Karawang Regency, Indonesia","ENR
+[66]",,,2018-10-29
+189,6,58,125,INH,American Airlines Flight 77,Boeing 757-223,"Arlington, Virginia, U.S.","ENR
+[67]",,,2001-09-11
+189,13,176,0,COM,Birgenair Flight 301,Boeing 757-225,"Atlantic Ocean, near Puerto Plata, Dominican Republic","ENR
+[68]",,,1996-02-06
+188,7,181,0,COM,Alia Royal Jordanian (JY-AEE),Boeing 707-321C,"Tamri, Morocco","ENR
+[69]",,,1975-08-03
+183,11,172,0,COM,LOT Polish Airlines Flight 5055,Ilyushin Il-62M,"Warsaw, Poland","ENR
+[nb 7][70]",WAW,"6 km
+(3.7 mi)",1987-05-09
+183,8,175,0,COM,Icelandic Airlines Flight 001,Douglas DC-8-63CF,"Katunayake, Sri Lanka","APR
+[71]",CMB,"2.1 km
+(1.3 mi)",1978-11-15
+181,19,162,0,COM,Avianca Flight 011,Boeing 747-283B,"Madrid, Spain","APR
+[72]",MAD,"12 km
+(7.5 mi)",1983-11-27
+180,7,173,0,COM,Inex-Adria Aviopromet Flight 1308,McDonnell Douglas MD-81,"Mt. San Pietro, Petreto-Bicchisano, Corsica, France","ENR
+[73]",,,1981-12-01
+178,5,169,4,COM,Aeroflot Flight 3352,Tupolev Tu-154,"Omsk, Russian SFSR, USSR","LDG
+[74]",OMS,,1984-10-11
+178,13,165,0,COM,"Aeroflot/Moldovia flight 7628
+and Aeroflot flight 7880",Tupolev Tu-134A (both),"near Dniprodzerzhynsk, Ukrainian SSR, USSR","ENR
+[75][76]",,,1979-08-11
+176,9,167,0,EXG,Ukraine International Airlines Flight 752,Boeing 737-800,"Tehran, Iran",ICL,IKA,,2020-01-08
+176,9,167,0,COM,Surinam Airways Flight 764,Douglas DC-8-62,"Paramaribo, Surinam","APR
+[77]",PBM,"3 km
+(1.9 mi)",1989-06-07
+176,14,162,0,COM,"British Airways Flight 476 and
+Inex Adria Flight 550","Hawker Siddeley Trident 3B and
+Douglas DC-9-32","Vrbovec, SR Croatia, Yugoslavia","ENR
+[78][79]
+[80]",,,1976-09-10
+176,6,170,0,COM,Nigeria Airways (JY-ADO),Boeing 707-3D3C,"Kano, Nigeria","LDG
+[81]",KAN,,1973-01-22
+174,10,164,0,COM,Aeroflot Flight 217,Ilyushin Il-62,"Moscow, Russian SFSR, USSR","APR
+[82]",SVO,"11 km
+(6.8 mi)",1972-10-13
+170,10,160,0,COM,Pulkovo Flight 612,Tupolev Tu-154M,"Sukha Balka, Donetsk Obl., Ukraine","ENR
+[83]",,,2006-08-22
+170,14,156,0,INB,Union de Transports Aériens Flight 772,McDonnell Douglas DC-10-30,"Ténéré, Niger","ENR
+[84][85]",,,1989-09-19
+169,10,159,0,COM,Kenya Airways Flight 431,Airbus A310-304,"Gulf of Guinea
+off Côte d'Ivoire","ENR
+[86]",,,2000-01-30
+168,12,156,0,COM,Caspian Airlines Flight 7908,Tupolev Tu-154M,"Qazvin, Iran","ENR
+[87]",,,2009-07-15
+167,12,155,0,COM,Pakistan International Airlines Flight 268,Airbus A300B4-200,"Kathmandu, Nepal","APR
+[88]",KTM,"20 km
+(12 mi)",1992-09-28
+167,8,159,0,COM,Mexicana Flight 940,Boeing 727-264,"Sierra Madre Occidental Mts., Mexico","ENR
+[89]",,,1986-03-31
+166,10,156,0,COM,Aeroflot Flight 4225,Tupolev Tu-154B-2,"Almaty, Kazakh SSR, USSR","ENR
+[90]",,,1980-07-08
+162,7,155,0,COM,Indonesia AirAsia Flight 8501,Airbus A320-216,"Karimata Strait, between Belitung and Borneo, Java Sea, Indonesia","ENR
+[91]",,,2014-12-28
+162,7,155,0,COM,"All Nippon Airways Flight 58 and
+JASDF (92-7932)",Boeing 727-200 and North American F-86 Sabre,"Shizukuishi, Japan","ENR
+[92]",,,1971-07-30
+160,8,152,0,COM,West Caribbean Airways Flight 708,McDonnell Douglas MD-82,"Machiques, Venezuela","ENR
+[93]",,,2005-08-16
+160,14,146,0,COM,China Northwest Airlines Flight 2303,Tupolev Tu-154M,"Xian, China","ENR
+[94]",,,1994-06-06
+159,6,147,6,COM,Dana Air Flight 992,McDonnell Douglas MD-83,"Lagos, Nigeria","APR
+[95]",LOS,"9.3 km
+(5.8 mi)",2012-06-03
+159,8,151,0,COM,American Airlines Flight 965,Boeing 757-223,"near Buga, Colombia","APR
+[96]",CLO,"c. 48 km
+(30 mi)",1995-12-20
+159,8,151[nb 8],0,MIL,Nigerian Air Force (NAF911),Lockheed C-130H Hercules,"Lagos, Nigeria","ENR
+[97]",,,1992-09-26
+159,19,140,0,COM,South African Airways Flight 295,Boeing 747-244B,"Indian Ocean, area of Mauritius","ENR
+[98]",,,1987-11-28
+158,6,152,0,COM,Air India Express Flight 812,Boeing 737-8HG,"Mangalore, India","LDG
+[99]",IXE,,2010-05-22
+157,8,149,0,COM,Ethiopian Airlines Flight 302,Boeing 737 MAX 8,"Bishoftu, Ethiopia","ENR
+[100]",,,2019-03-10
+157,10,147,0,COM,"Libyan Arab Airlines Flight 1103 and
+Libyan Air Force",Boeing 727-2L5 and Mikoyan-Gurevich MiG-23,"Qasr bin Ghashir, Tripoli, Libya","APR
+[101]",TIP,"9 km
+(5.6 mi)",1992-12-22
+156,6,148,2,COM,Northwest Airlines Flight 255,McDonnell Douglas DC-9-82,"Romulus, Michigan, U.S.","TOF
+[102][103]",DTW,"<0.5 km
+(0.3 mi)",1987-08-16
+156,11,145,0,COM,Pakistan International Airlines Flight 740,Boeing 707-340C,"near Taif, Saudi Arabia","ENR
+[104]",,,1979-11-26
+156,8,148,0,COM,Interflug (DM-SEA),Ilyushin Il-62,"Königs Wusterhausen, East Germany","ENR
+[105]",,,1972-08-14
+155,7,148,0,COM,Spantax Flight 275,Convair 990 Coronado,"San Cristóbal, Tenerife, Canary Islands, Spain","ICL
+[106]",TFN,"0.33 km
+(0.2 mi)",1972-12-03
+155,10,74,71,COM,Viasa Flight 742,McDonnell Douglas DC-9-32,"Maracaibo, Venezuela","ICL
+[107]",MAR,"0.85 km
+(0.5 mi)",1969-03-16
+155,6,149,0,MIL,US Air Force (60-0297),Lockheed C-130B Hercules,"Kham Duc, South Vietnam","ICL
+[108]",,,1968-05-12
+154,6,148,0,COM,Spanair Flight 5022,McDonnell Douglas MD-82,"Madrid, Spain","TOF
+[109]",MAD,"<0.5 km
+(0.3 mi)",2008-08-20
+154,6,148,0,COM,"Gol Transportes Aéreos Flight 1907 and
+ExcelAire (N600XL)",Boeing 737-8EH and Embraer Legacy 600,"near Peixoto Azevedo, Brazil","ENR
+[110]",,,2006-09-29
+154,8,146,0,COM,Turkish Airlines Flight 452,Boeing 727-2F2,"Isparta, Turkey","APR
+[111]",***[nb 9],,1976-09-19
+153,7,138,8,COM,Pan Am Flight 759,Boeing 727-235,"Kenner, Louisiana, US","ICL
+[112][113]",MSY,"<1 km
+(0.6 mi)",1982-07-09
+152,6,146,0,COM,Airblue Flight 202,Airbus A321-231,"Islamabad, Pakistan","APR
+[114]",ISB,"15 km
+(9.3 mi)",2010-07-28
+152,11,141,0,COM,Yemenia Flight 626,Airbus A310-324,"Mozambique Channel off Mitsamiouli, Comoros","APR
+[115]",HAH,"c. 40 km
+(25 mi)",2009-06-30
+150,6,144,0,COM,Germanwings Flight 9525,Airbus A320-211,"near French Alps, France","ENR
+[116]",,,2015-03-24
+150,11,115,24,COM,Cubana de Aviación Flight 9046,Ilyushin II-62M,"Havana, Cuba","ICL
+[117]",HAV,"<1.5 km
+(0.9 mi)",1989-09-03
+149,5,95,49,COM,Mandala Airlines Flight 091,Boeing 737-230,"Medan, Indonesia","ICL
+[118][119]",MES,"c. 1 km
+(0.6 mi)",2005-09-05
+148,13,135,0,COM,Flash Airlines Flight 604,Boeing 737-3Q8,"Red Sea, off Sharm el-Sheikh, Egypt","ENR
+[120]",,,2004-01-03
+148,7,141,0,COM,Iberia Airlines Flight 610,Boeing 727-256,"Oiz mountain, Spain","ENR
+[121]",,,1985-02-19
+146,8,138,0,COM,Dan-Air Flight 1008,Boeing 727-46,"La Esperanza Forrest, Tenerife, Canary Islands, Spain","APR
+[122]",TFN,"12 km
+(7.5 mi)",1980-04-25
+145,9,136,0,COM,Vladivostok Air Flight 352,Tupolev Tu-154M,"near Budaro, Irkutsk, Russia","APR
+[123]",IKT,"23 km
+(14 mi)",2001-07-04
+144,10,134,0,COM,ADC Airlines Flight 86,Boeing 727-231,"Ejirin, Lagos State, Nigeria","APR
+[124]",LOS,"56 km
+(35 mi)",1996-11-07
+144,7,137,0,COM,Independent Air Flight 1851,Boeing 707-331B,"Pico Alto Mtn., Azores, Portugal","APR
+[125]",SMA,"6.6 km
+(4.1 mi)",1989-02-08
+144,9,128,7,COM,"PSA Flight 182 and
+Private aircraft (N7711G)",Boeing 727-214 and Cessna 172,"San Diego, California, US","APR
+[126][127]",SAN,"5.6 km
+(3.5 mi)",1978-09-25
+143,8,135,0,COM,Gulf Air Flight 072,Airbus A320-212,"Persian Gulf, off Al Muharraq, Bahrain","APR
+[128]",BAH,"2 km
+(1.2 mi)",2000-08-23
+143,7,136,0,COM,Avianca Flight 410,Boeing 727-21,"Sardinata, Colombia","ENR
+[129]",,,1988-03-17
+141,5,136[nb 10],0,COM,UTAGE Flight 141,Boeing 727-223,"Cotonou, Benin","TOF
+[130]",COO,"<1 km
+(0.6 mi)",2003-12-25
+141,11,130,0,COM,Vnukovo Airlines Flight 2801,Tupolev Tu-154M,"Svalbard, Norway","APR
+[131]",LYR,"14.3 km
+(8.9 mi)",1996-08-29
+141,4,137,0,COM,Trans Service Airlift (9Q-CRR),Lockheed L-188 Electra,"Jamba, Cuando Cubango, Angola","TOF
+[132]",,,1995-12-18
+141,10,131,0,COM,China Southern Airlines Flight 3943,Boeing 737-31B,"Hejiaqiao, Yanshan District, China","APR
+[133]",KWL,"20 km
+(12 mi)",1992-11-24
+139,12,110[nb 11],17[nb 12],MIL,Indonesian Air Force (A-1310),Lockheed C-130 Hercules,"Medan, Indonesia","ICL
+[134]",MES,"1 km
+(0.6 mi)",2015-06-30
+138,11,127,0,MIL,US Air Force (68-0218),Lockheed C-5A Galaxy,"Saigon, South Vietnam","ENR
+[135]",,,1975-04-04
+137,8,128,1,COM,Delta Air Lines Flight 191,Lockheed L-1011 TriStar,"Dallas–Fort Worth, Texas, US","APR
+[136][137]",DFW,"c. 2 km
+(1.2 mi)",1985-08-02
+137,9,128,0,COM,VASP Flight 168,Boeing 727-212A,"Pacatuba, Brazil","APR
+[138]",FOR,"25 km
+(16 mi)",1982-06-08
+135,12,121,2,MIL,Indonesian Air Force (A-1324),Lockheed C-130H-30 Hercules,"East Jakarta, Indonesia","ICL
+[139]",HLP,"3 km
+(1.9 mi)",1991-10-05
+134,12,116,6,COM,"United Airlines Flight 826 and
+TWA Flight 266",Douglas DC-8-21 and Lockheed L-1049,"New York City, US","APR
+[140][141]
+[142]",LGA,,1960-12-16
+133,14,119,0,MIL,"Iran Air Tours Flight 962
+and Iranian Air Force Su-24",Tupolev Tu-154 and Sukhoi Su-24,"Shahr-e Qods, Iran","APR/TOF
+[143]",THR,"15 km
+(9.3 mi)",1993-02-08
+133,6,127,0,COM,Indian Airlines Flight 113,Boeing 737-2A8,"Ahmedabad, India","APR
+[144]",AMD,"5 km
+(3.1 mi)",1988-10-19
+133,7,126,0,COM,All Nippon Airways Flight 60,Boeing 727-81,"Tokyo Bay, Japan","APR
+[145]",HND,"12 km
+(7.5 mi)",1966-02-04
+132,5,127,0,COM,USAir Flight 427,Boeing 737-3B7,"Aliquippa, Pennsylvania, US","APR
+[146][147]",PIT,"13 km
+(8.1 mi)",1994-09-08
+132,7,125,0,COM,SAM Colombia Flight 501,Boeing 727-146,"La Canada, near Medellín, Colombia","ENR
+[148]",,,1993-05-19
+132,8,124,0,COM,Aeroflot Flight 8641,Yakovlev Yak-42,"Mazyr, Byelorussian SSR, USSR","ENR
+[149][150]",,,1982-06-28
+131,7,124,0,COM,Air Philippines Flight 541,Boeing 737-2H4,"Samal, Philippines","APR
+[151]",DVO,"7.5 km
+(4.7 mi)",2000-04-19
+131,4,127,0,COM,Tan-Sahsa Flight 414,Boeing 727-224,"Tegucigalpa, Honduras","APR
+[152]",TGU,"9 km
+(5.6 mi)",1989-10-21
+131,6,125,0,COM,TAP Portugal Flight 425,Boeing 727-282Adv,"Santa Cruz, Madeira","LDG
+[153]",FNC,,1977-11-19
+130,4,126,0,COM,TAAG Angola Airlines (D2-TBN),Boeing 737-200,"Lubango, Angola","ICL
+[nb 14]",SDD,"1 km
+(0.6 mi)",1983-11-08
+130,8,122,0,COM,Air France Flight 007,Boeing 707-328,"Paris, France","TOF
+[155]",ORY,,1962-06-03
+129,8,121,0,COM,Air China Flight 129,Boeing 767-2J6ER,"Busan, South Korea","APR
+[156]",PUS,"4.6 km
+(2.9 mi)",2002-04-15
+129,7,122,0,MIL,US Air Force (51-0137),Douglas C-124A-DL Globemaster II,"Tachikawa, Japan","APR
+[157]",RJTC,"5.6 km
+(3.5 mi)",1953-06-18
+128,7,121,0,INH,"Xiamen Air Flight 8301,
+China Southwest Flight 2402,
+and China Southern (B-2812)","Boeing 737-247, Boeing 707-3J6B, and Boeing 757-21B","Baiyun District, Guangzhou, China","LDG/STD
+[158][159][160][nb 15]",***,,1990-10-02
+128,8,120,0,COM,Iran Air Flight 291,Boeing 727-86,"Alborz Mountains, Iran","APR
+[161]",THR,"29 km
+(18 mi)",1980-01-21
+128,11,117,0,COM,"United Airlines Flight 718 and
+TWA Flight 2",Douglas DC-7 and Lockheed L-1049,"Grand Canyon, Arizona, US","ENR
+[162][163]
+[164]",,,1956-06-30
+127,6,121,0,COM,Bhoja Air Flight 213,Boeing 737-236,"Islamabad, Pakistan","APR
+[165]",ISB,"c. 2.5 km
+(1.6 mi)",2012-04-20
+127,0,127,0,MIL,Russian Air Force (89 red),Mil Mi-26,"Khankala, Chechnya, Russia","APR
+[166][167]",,,2002-08-19
+126,11,115,0,COM,ČSA Flight 540,Ilyushin Il-62,"Damascus, Syria","APR
+[168]",DAM,"17 km
+(11 mi)",1975-08-20
+126,9,117,0,COM,Globe Air (HB-ITB),Bristol Britannia 313,"Nicosia, Cyprus","APR
+[169]",NIC,"3.5 km
+(2.2 mi)",1967-04-20
+125,5,120,0,COM,Sibir (S7) Airlines Flight 778,Airbus A310-300,"Irkutsk, Russia","LDG
+[170]",IKT,,2006-07-09
+125,6,119,0,INH,Ethiopian Airlines Flight 961,Boeing 767-260ER,"Indian Ocean, off Grande Comore, Comoros","APR
+[171]",HAH[nb 16],"0.5 km
+(0.3 ml)",1996-11-23
+124,9,115,1,COM,Baikal Air Flight 130,Tupolev Tu-154,"Irkutsk, Russia","ENR
+[172]",,,1994-01-03
+124,11,113,0,COM,BOAC Flight 911,Boeing 707-436,"Gotemba, Japan","ENR
+[173]",,,1966-03-05
+123,6,117,0,COM,Faucett Flight 251,Boeing 737-222,"Arequipa, Peru","APR
+[174]",AQP,"6.3 km
+(3.9 mi)",1996-02-29
+123,7,116,0,COM,Varig Flight 820,Boeing 707-320C,"Saulx-les-Chartreux, France","APR
+[175]",ORY,"5 km
+(3.1 mi)",1973-07-11
+123,12,111,0,COM,South African Airways Flight 228,Boeing 707-344C,"Windhoek, Namibia (then South West Africa)","ICL
+[176]",WDH,"5 km
+(3.1 mi)",1968-04-20
+122,14,108,0,MIL,Myanmar Air Force (5820),Shaanxi Y-8F-200,"Andaman Sea, off Dawei, Myanmar","ENR
+[177]",,,2017-06-07
+122,8,114,0,COM,Aeroflot Flight 964,Tupolev Tu-104B,"Domodedovo, Russian SFSR, USSR","APR
+[178]",DME,"17 km
+(11 mi)",1973-10-13
+122,7,115,0,COM,Aeroflot Flight 1491,Antonov An-10,"near Kharkiv, Ukrainian SSR, USSR","APR
+[179]",HRK,"24 km
+(15 mi)",1972-05-18
+121,6,115,0,COM,Helios Airways Flight 522,Boeing 737-31S,"Grammatiko, Greece","ENR
+[180]",,,2005-08-14
+121,13,108,0,COM,Pakistan International Airlines Flight 705,Boeing 720 040B,"New Cairo, Egypt","APR
+[181]",CAI,"c. 20 km
+(12 mi)",1965-05-20
+120,10,110,0,COM,"Aeroflot Flight 831
+and Soviet Air Force An-12",Ilyushin Il-14M and Antonov An-12BP,"Poroslitsy, Yukhnovsky, Russian SFSR, USSR","ENR
+[182][183]",,,1969-06-23
+119,12,107,0,COM,Iran Air Tours Flight 956,Tupolev Tu-154M,"near Sarab-e Dowreh, Iran","APR
+[184]",KHD,"c. 46 km
+(29 mi)",2002-02-12
+119,8,111,0,COM,TAME Ecuador (HC-BIG),Boeing 737-200 Advanced,"Cuenca, Ecuador","APR
+[185]",CUE,"1.5 km
+(0.9 mi)",1983-07-11
+118,8,106,4,COM,"SAS Flight 686 and
+Private aircraft (D-IEVX)",McDonnell Douglas MD-87 and Cessna Citation CJ2,"Milan, Italy","TOF/TXI
+[186][187]
+[188]",LIN,,2001-10-08
+118,9,109,0,COM,British European Airways Flight 548,Hawker Siddeley Trident 1C,"Staines, United Kingdom","ICL
+[189][190]",LHR,"5.5 km
+(3.4 mi)",1972-06-18
+118,7,111,0,COM,Trans-Canada Air Lines Flight 831,Douglas DC-8-54CF,"Sainte-Thérèse, Quebec, Canada","ENR
+[191]",,,1963-11-29
+117,6,111,0,COM,Bellview Airlines Flight 210,Boeing 737-2L9,"near Lagos, Nigeria","ENR
+[192]",,,2005-10-22
+117,11,105,0,COM,Sudan Airways Flight 139,Boeing 737-200C,"Port Sudan, Sudan","APR
+[193]",PZU,"5 km
+(3.1 mi)",2003-07-08
+117,11,106,0,COM,Air India Flight 101,Boeing 707-437,"Mont Blanc massif, France","ENR
+[194]",,,1966-01-24
+116,6,110,0,COM,Air Algérie Flight 5017,McDonnell Douglas MD-83,"near Gossi, Mali","ENR
+[195]",,,2014-07-24
+116,8,108,0,COM,Avioimpex Flight 110,Yakovlev Yak-42,"Ohrid, Republic of Macedonia","APR
+[196]",OHD,"2 km
+(1.2 mi)",1993-11-20
+115,11,104,0,INB,Korean Air Flight 858,Boeing 707-3B5C,"Andaman Sea, near Heinze Bok, Burma","ENR
+[197]",,,1987-11-29
+115,7,108,0,COM,Alitalia Flight 112,McDonnell Douglas DC-8-43,"Cinisi, Sicily, Italy","APR
+[198]",PMO,"5 km
+(3.1 mi)",1972-05-05
+114,6,108,0,COM,Kenya Airways Flight 507,Boeing 737-8AL,"Douala, Cameroon","ENR
+[199]",,,2007-05-05
+113,8,105,0,COM,Armavia Flight 967,Airbus A320-221,"Black Sea, off Adler, Russia","APR
+[200]",AER,"6 km
+(3.7 mi)",2006-05-03
+113,9,100,4,COM,Air France Flight 4590,Aérospatiale-BAC Concorde,"Gonesse, France","ICL
+[201][202]",CDG,"3.5 km
+(2.2 mi)",2000-07-25
+113,14,99,0,COM,Thai Airways International Flight 311,Airbus A310-304,"Langtang National Park, Nepal","ENR
+[203]",,,1992-07-31
+113,6,107,0,COM,Eastern Air Lines Flight 66,Boeing 727-225,"Jamaica, New York, US","APR
+[204][205]",JFK,"0.73 km
+(0.46 mi)",1975-06-24
+113,10,103,0,COM,Air France Flight 117,Boeing 707-328,"near Deshaies, Guadeloupe, West Indies","APR
+[206]",PTP,"25 km
+(16 mi)",1962-06-22
+112,6,106,0,COM,Cubana de Aviación Flight 972,Boeing 737-201 Adv.,"Santiago de las Vegas, Cuba","ICL
+[207]",HAV,"10 km
+(6.2 mi)",2018-05-18
+112,9,103,0,COM,China Northern Airlines Flight 6136,McDonnell Douglas MD-82,"Dalian Bay, China","APR
+[208]",DLC,"20 km
+(12 mi)",2002-05-07
+112,1,111,0,COM,United Airlines Flight 232,McDonnell Douglas DC-10-10,"Sioux City, Iowa, US","LDG
+[85][209]
+[210]",SUX,,1989-07-19
+112,5,107,0,INB,Gulf Air Flight 771,Boeing 737-2P6,"Mina Jebel Ali, United Arab Emirates","APR
+[211]",AUH,"80 km
+(49.7 mi)",1983-09-23
+112,8,104,0,COM,Civil Aviation Administration of China Flight 3303,Hawker Siddeley Trident,"near Yangshuo, China","APR
+[212]",KWL,"60 km
+(37 mi)",1982-04-26
+112,6,106,0,COM,Sterling Airways Flight 296,Sud Aviation Caravelle,"Fujairah, United Arab Emirates","ENR
+[213]",,,1972-03-14
+112,7,105,0,COM,Dan-Air (G-APDN),de Havilland Comet 4,"Les Agudes mountain, Spain","ENR
+[214][215]",,,1970-07-03
+111,11,100,0,COM,Aeroflot/Armenia Flight 909,Ilyushin Il-18E,"Verkhnyaya Khava, Verkhnekhavsky District, Russian SFSR, USSR","ENR
+[216]",,,1976-03-06
+111,7,104,0,COM,Alaska Airlines Flight 1866,Boeing 727-100,"near Juneau, Alaska, US","APR
+[217][218]",JNU,"30 km
+(19 mi)",1971-09-04
+111,4,0,107,COM,Flying Tiger Line (N228SW),Canadair CL-44D4-1,"Da Nang, Vietnam","APR
+[219]",DAD,"c. 1 km
+(0.6 mi)",1966-12-24
+111,10,101,0,COM,Caledonian Airways Flight 153,Douglas DC-7,"Douala, Cameroon","ICL
+[220]",DLA,"2.5 km
+(1.6 mi)",1962-03-04
+110,5,105,0,COM,ValuJet Flight 592,McDonnell Douglas DC-9-32,"Everglades, Florida, US","ENR
+[221][222]",,,1996-05-11
+110,7,103,0,COM,Aeroflot Flight 3519,Tupolev 154B-2,"Yemelyanovo, Yemelyanovsky, Russian SFSR, USSR","ENR
+[223]",,,1984-12-23
+110,6,104,0,COM,Far Eastern Air Transport Flight 103,Boeing 737-222,"Miaoli, Taiwan","ENR
+[224]",,,1981-08-22
+109,7,102,0,COM,Aeroflot (CCCP-75559),Ilyushin Il-18V,"Shushary, Russian SFSR, USSR","APR
+[225]",LED,"2.5 km
+(1.6 mi)",1974-04-27
+109,8,101,0,COM,Aeroflot Flight 1036,Ilyushin Il-18V,"Black Sea, off Adler, Russian SFSR, USSR","ICL
+[226]",AER,"4 km
+(2.5 mi)",1972-10-01
+109,9,100,0,COM,Air Canada Flight 621,McDonnell Douglas DC-8-63,"Vaughan, Ontario, Canada","LDG
+[227]",YYZ,"11 km
+(6.8 mi)",1970-07-05
+108,7,101,0,COM,Sosoliso Airlines Flight 1145,McDonnell Douglas DC-9-32,"Port Harcourt, Nigeria","LDG
+[228]",PHC,,2005-12-10
+108,8,100,0,EXG,Transair Georgia (85163),Tupolev Tu-154B,"Babushara, near Sukhumi, Abkhazia, Georgia","APR
+[229]",SUI,,1993-09-22
+108,8,100,0,COM,China General Aviation Flight 7552,Yakovlev Yak-42,"Nanjing, China","ICL
+[230]",NKG,"0.6 km
+(0.4 mi)",1992-07-31
+108,10,98,0,COM,China Southwest Airlines Flight 4146,Ilyushin Il-18D,"near Chongqing, China","APR
+[231]",CKG,"c. 32 km
+(20 mi)",1988-01-18
+108,5,103,0,COM,Alitalia Flight 4128,McDonnell Douglas DC-9-32,"Tyrrhenian Sea, off Palermo, Italy","APR
+[232]",PMO,"3 km
+(1.9 mi)",1978-12-23
+108,8,100,0,COM,Aeroflot Flight 3932,Tupolev Tu-104,"Yekaterinburg, Russian SFSR, USSR","ICL
+[233]",SVX,"10 km
+(6.2 mi)",1973-09-30
+108,4,104,0,COM,Invicta International Airlines Flight 435,Vickers 952 Vanguard,"Reinach, Switzerland","APR
+[234]",BSL,"15 km
+(9.3 mi)",1973-04-10
+108,8,100,0,EXS,Libyan Arab Airlines Flight 114,Boeing 727-224,"Western Sinai Peninsula, Israel","ENR
+[235]",,,1973-02-21
+107,6,101,0,INB,Avianca Flight 203,Boeing 727-21,"Bogotá, Colombia","ENR
+[236]",,,1989-11-27
+107,11,96,0,COM,Pan Am Flight 812,Boeing 707-321B,"area of Negara, Bali, Indonesia","APR
+[237]",DPS,"68 km
+(42 mi)",1974-04-22
+107,8,99,0,COM,Aeroflot Flight 2230,Ilyushin Il-18V,"Aramil, Russian SFSR, USSR","ICL
+[238]",SVX,"2.9 km
+(1.8 mi)",1967-11-16
+107,11,96,0,COM,Flying Tiger Line Flight 739,Lockheed L-1049H Super Constellation,Pacific Ocean,"ENR
+[239]",,,1962-03-16
+106,10,84,12,MIL,Iranian Air Force (5-8519),Lockheed C-130E Hercules,"Tehran, Iran","APR
+[240]",THR,"c. 5.5 km
+(3.4 mi)",2005-12-06
+106,7,99,0,COM,Royal Air Maroc Caravelle (OO-SRD),Sud Aviation SE-210 Caravelle VIN,"Mt. Mellalyene, Tétouan, Morocco","ENR
+[241]",,,1973-12-22
+105,8,97,0,COM,Kam Air Flight 904,Boeing 737-242,"Chaperi Ghar Mtn., Pamir Mts., Afghanistan","ENR
+[242]",,,2005-02-03
+104,5,99,0,COM,Cebu Pacific Air Flight 387,McDonnell Douglas DC-9-32,"Mount Sumagaya, Philippines","ENR
+[243]",,,1998-02-02
+104,7,97,0,COM,SilkAir Flight 185,Boeing 737-36N,"Musi River, Indonesia","ENR
+[244][245]",,,1997-12-19
+104,6,98,0,COM,Iberia Airlines Flight 602,Sud Aviation SE 210 Caravelle,"Ibiza, Spain","APR
+[246]",IBZ,"c. 15 km
+(9.3 mi)",1972-01-07
+104,6,11,87,COM,"Middle East Airlines Flight 265 and
+Turkish Air Force (CBK-28)",Vickers Viscount 754D and Douglas C-47,"Ankara, Turkey","APR/ENR
+[247]",ESB,"c. 20 km
+(12.4 mi)",1963-02-01
+103,11,92,0,COM,Afriqiyah Airways Flight 771,Airbus A330-202,"Tripoli, Libya","APR
+[248]",TIP,"c. 0.9 km
+(0.56 mi)",2010-05-12
+103,7,66,30,COM,EAS Airlines Flight 4226,BAC One-Eleven 500,"Kano, Nigeria","ENR
+[249]",,,2002-05-04
+103,7,96,0,MIL,Iranian Air Force,Lockheed C-130 Hercules,"near Zahedan, Iran","APR
+[250]",,,1986-11-02
+102,6,96,0,COM,Adam Air Flight 574,Boeing 737-4Q8,"Makassar Strait, Indonesia","ENR
+[251][252]",,,2007-01-01
+102,6,96,0,COM,Air Algérie Flight 6289,Boeing 737-2T4,"Tamanrasset, Algeria","ICL
+[253]",TMR,"1.6 km
+(1 mi)",2003-03-06
+102,5,97,0,COM,Dominicana de Aviación (HI-177),McDonnell Douglas DC-9-32,"Caribbean, off Santo Domingo, Dominican Republic","ICL
+[254]",SDQ,"3 km
+(1.9 mi)",1970-02-15
+101,11,90,0,COM,Thai Airways Flight 261,Airbus A310-300,"Surat Thani, Thailand","APR
+[255]",URT,"c. 4 km
+(2.5 mi)",1998-12-11
+101,5,96,0,COM,Eastern Air Lines Flight 401,Lockheed L-1011-385-1 TriStar 1,"Everglades, near Tamiami, Florida, US","APR
+[256][257]",MIA,"33.6 km
+(20.9 mi)",1972-12-29
+102,9,93,0,COM,Aeroflot Flight 558,Ilyushin Il-18V,"near Spassky, Verkhneuralsky District, Russian SFSR, USSR","ENR
+[258]",,,1972-08-31
+101,7,92,2,COM,LANSA Flight 502,Lockheed L-188 Electra,"Cusco, Peru","ICL
+[259]",CUZ,"c. 4 km
+(2.5 mi)",1970-08-09
+101,6,95,0,COM,Northwest Airlines Flight 293,Douglas DC-7CF,"Pacific Ocean, area of Annette Island, Alaska, US","ENR
+[260][261]",,,1963-06-03
+100,7,93,0,INH,Malaysian Airline System Flight 653,Boeing 737-2H6,"near Tanjung Kupang, Malaysia","ENR
+[262]",,,1977-12-04
+100,7,93,0,COM,United Arab Airlines (SU-APC),Ilyushin Il-18D,"Aswan, Egypt","LDG
+[263]",ASW,,1969-03-20
+99,[nb 17],[nb 18],2,MIL,Indonesian Air Force (A-1325),Lockheed C-130H Hercules,"near Madiun, Indonesia","APR
+[264]",MDN,"9 km
+(5.6 mi)",2009-05-20
+99,6,90,3,COM,TAM Airlines Flight 402,Fokker 100,"São Paulo, Brazil","ICL
+[265][266]",CGH,"1.5 km
+(0.9 mi)",1996-10-31
+99,4,95,0,COM,Aeroflot Flight 3603,Tupolev Tu-154B-2,"near Norilsk, Russian SFSR, USSR","APR
+[267]",NSK,"0.47 km
+(0.3 mi)",1981-11-16
+99,8,91,0,COM,KLM Flight 607E,Lockheed L-1049,"Atlantic Ocean, area of Shannon, Ireland","ENR
+[268]",,,1958-08-14
+98,8,89,1,COM,Pakistan International Airlines Flight 8303,Airbus A320-214,"Karachi, Pakistan","APR
+[269]",KHI,"3.0 km
+(1.9 mi)",2020-05-22
+98,8,90,0,COM,Khabarovsk United Air Group Flight 3949,Tupolev Tu-154B,"area of Grossevichi, Khabarovsk Krai, Russia","ENR
+[270]",,,1995-12-06
+98,6,92,0,MIL,Royal Saudi Air Force (469),Lockheed C-130H Hercules,"near Khafji, Saudi Arabia","APR
+[271]",OERM,unknown,1991-03-21
+98,6,92,0,MIL,Indian Air Force Flight 203,Antonov An-12BP,"Rohtang Pass, India","ENR
+[272]",,,1968-02-07
+98,6,92,0,COM,Britannia Airways Flight 105,Bristol 175 Britannia 102,"Komenda, SR Slovenia, Yugoslavia","APR
+[273]",LJU,"3 km
+(1.9 mi)",1966-09-01
+97,10,87,0,COM,Pan Am Flight 806,Boeing 707-321B,"Pago Pago, American Samoa","APR
+[274]",PPG,"1.2 km
+(0.75 mi)",1974-01-30
+97,4,93,0,COM,Aeroflot Flight 1912,Tupolev Tu-104B,"Irkutsk, Russian SFSR, USSR","APR
+[275]",IKT,"0.15 km
+(0.09 mi)",1971-07-25
+97,17,80,0,COM,Varig Flight 810,Boeing 707-441,"La Cruz peak, San Juan de Miraflores, Peru","APR
+[276]",LIM,"c. 25 km
+(16 mi)",1962-11-27
+96,8,88,0,MIL,Polish Air Force (101),Tupolev Tu-154M,"Smolensk, Russia","APR
+[277][278]",***,"c. 1 km
+(0.6 mi)",2010-04-10
+96,4,92,0,COM,ADC Airlines Flight 53,Boeing 737-2B7,"Abuja, Nigeria","ICL
+[279]",ABV,"c. 0.5 km
+(0.3 mi)",2006-10-29
+96,6,90,0,COM,Aeroflot Flight 3843,Tupolev Tu-104A,"Almaty, Kazakh SSR, USSR","APR
+[280]",ALA,"3.5 km
+(2.2 mi)",1977-01-13
+95,6,89,0,COM,Indian Airlines Flight 171,Sud Aviation SE-210 Caravelle VIN,"Mumbai, India","APR
+[281]",BOM,"0.35 km
+(0.2 mi)",1976-10-12
+95,6,89,0,EXG,Air France Flight 1611,Sud Aviation SE-210 Caravelle III,"Mediterranean, near Nice, France","ENR
+[282]",,,1968-09-11
+95,8,87,0,COM,American Airlines Flight 1,Boeing 707-123B,"Jamaica Bay, New York, US","ICL
+[283][284]",IDL,"c. 6 km
+(3.7 mi)",1962-03-01
+94,7,87,0,COM,TAME Flight 120,Boeing 727-134,"Cumbal Volcano, Colombia","APR
+[285]",TUA,"c. 21 km
+(13 mi)",2002-01-28
+94,12,82,0,COM,"Aeroflot Flight 8381 and
+Soviet Air Force (SSSR-26492)",Tupolev Tu-134 and Antonov An-26,"Zolochiv, Ukrainian SSR, USSR","APR/ENR
+[286][287]",LWO,"68 km
+(42 mi)",1985-05-03
+94,9,85,0,COM,Alitalia Flight 771,McDonnell Douglas DC-8-43,"Junnar, India","ENR
+[288]",,,1962-07-07
+93,6,87,0,COM,Aerovias Guatemala Caravelle (HC-BAE),Sud Aviation SE-210 Caravelle III,"Flores, Guatemala","APR
+[289][290]",FRS,"8 km
+(5 mi)",1986-01-18
+93,6,87,0,COM,"Iberia Flight 350 and
+Aviaco Flight 134",Boeing 727 and McDonnell Douglas DC-9,"Madrid, Spain","TOF/TXI
+[291][292]",MAD,,1983-12-07
+92,8,84,0,MIL,Russian Air Force (RA-85572),Tupolev Tu-154,"Black Sea, off Adler, Russia","ENR
+[293]",,,2016-12-25
+92,4,88,0,COM,Indian Airlines Flight 605,Airbus A320-231,"Bangalore, India","APR
+[294]",VOBG,"0.7 km
+(0.43 mi)",1990-02-14
+92,7,85,0,COM,TWA Flight 514,Boeing 727-231,"Mt. Weather, Virginia, US","APR
+[295]",DCA,"40 km
+(25 mi)",1974-12-01
+92,7,85,0,COM,Aeroflot Flight U-45,Ilyushin Il-18V,"Bulungur District, Uzbek SSR, USSR","ENR
+[296]",,,1970-02-06
+91,5,86,0,MIL,Sudanese Air Force,Lockheed C-130H Hercules,"Jabal Awliya, Sudan","ENR
+[297]",,,1996-02-26
+91,3,0,88,COM,Lloyd Aéreo Boliviano (N730JP),Boeing 707-131F,"Santa Cruz, Bolivia","ICL
+[298]",SRZ,"0.6 km
+(0.4 mi)",1976-10-13
+91,6,85,0,COM,LANSA Flight 508,Lockheed L-188 Electra,"Puerto Inca, Peru","ENR
+[299]",,,1971-12-24
+90,8,82,0,COM,Ethiopian Airlines Flight 409,Boeing 737-8AS,"Mediterranean, off Na'ameh, Lebanon","ICL
+[300]",BEY,"11 km
+(6.8 mi)",2010-01-25
+90,5,85,0,COM,One-Two-GO Airlines Flight 269,McDonnell Douglas MD-82,"Phuket, Thailand","LDG
+[301]",HKT,,2007-09-16
+90,7,83,0,COM,Aeroflot Flight 5463,Tupolev Tu-134A,"near Almaty, Kazakh SSR, USSR","APR
+[302]",ALA,"36 km
+(22.4 mi)",1983-08-30
+90,8,82,0,COM,Aeroflot Flight 411,Ilyushin Il-62M,"Mendeleyevo, Russian SFSR, USSR","ICL
+[303]",SVO,"11.4 km
+(7.1 mi)",1982-07-06
+90,5,85,0,COM,Olympic Airways Flight 954,Douglas DC-6,"Keratea, Greece","APR
+[304]",***,"c. 23 km
+(14 mi)",1969-12-08
+89,8,81,0,MIL,Royal Saudi Air Force (453),Lockheed C-130E Hercules,"Medina, Saudi Arabia","ICL
+[305]",MED,"c. 1 km
+(0.6 mi)",1980-09-14
+89,6,83,0,COM,Delta Air Lines Flight 723,McDonnell Douglas DC-9-31,"Boston, Massachusetts, US","APR
+[306][307]",BOS,"1 km
+(0.6 mi)",1973-07-31
+88,6,82,0,COM,Aeroflot-Nord Flight 821,Boeing 737-505,"Perm, Russia","APR
+[308]",PEE,"11.5 km
+(7.1 mi)",2008-09-14
+88,5,83,0,COM,Alaska Airlines Flight 261,McDonnell Douglas MD-83,"Pacific Ocean, off Anacapa Island, California, US","ENR
+[309][310]",,,2000-01-31
+88,8,80,0,MIL,Iranian Air Force,Lockheed C-130 Hercules,"near Mashad, Iran","ENR
+[311][312]",,,1997-03-13
+88,9,79,0,INB,Trans World Airlines Flight 841 (1974),Boeing 707-331B,"Mediterranean, area of Cephalonia, Greece","ENR
+[313]",,,1974-09-08
+88,5,83,0,COM,Air Ferry DC-4 G-APYK,Douglas C-54 Skymaster,"Mont Canigou, France","ENR
+[314]",,,1967-06-03
+87,5,82,0,COM,Air Inter Flight 148,Airbus A320-111,"Barr, France","APR
+[315]",SXB,"19.5 km
+(12.1 mi)",1992-01-20
+87,10,77,0,COM,LOT Polish Airlines Flight 007,Ilyushin Il-62,"Warsaw, Poland","APR
+[316]",WAW,"0.86 km
+(0.52 mi)",1980-03-14
+87,11,76,0,COM,Nigeria Airways Flight 825,Vickers VC10,"Lagos, Nigeria","APR
+[317]",LOS,"13 km
+(8.1 mi)",1969-11-20
+87,7,80,0,COM,LAN Chile Flight 107,Douglas DC-6,"San José Volcano, Chile","ENR
+[318]",,,1965-02-06
+87,9,78,0,COM,Aeroflot Flight 721,Ilyushin Il-18V,"near Yuzhno Sakhalinsk, Russian SFSR, USSR","APR
+[319]",UUS,"26 km
+(16.3 mi)",1964-09-02
+87,5,82,0,MIL,US Air Force (50-0100),Douglas C-124A Globemaster II,"Moses Lake, Washington, US","ICL
+[320]",LRN,"4 km
+(2.5 mi)",1952-12-20
+86,6,79,1,COM,Aviaco Flight 118,Sud Aviation SE 210 Caravelle 10R,"A Coruña, Spain","APR
+[321]",LCG,"11 km
+(6.8 mi)",1973-08-13
+86,10,72,4,COM,Japan Airlines Flight 471,Douglas DC-8-53,"near New Delhi, India","APR
+[322]",DEL,"c. 20 km
+(12 mi)",1972-06-14
+86,7,79,0,COM,Aeroflot Flight 3,Tupolev Tu-104A,"near Yelabuga, Tatar ASSR, Russian SFSR, USSR","ENR
+[323]",,,1962-09-03
+85,6,79,0,COM,Tajikistan Airlines Flight 3183,Tupolev Tu-154B-1,"Sharjah, United Arab Emirates","APR
+[324]",SHJ,"13 km
+(8.1 mi)",1997-12-15
+85,5,80,0,COM,Braniff Flight 352,Lockheed L-188A Electra,"Dawson, Texas, US","ENR
+[325][326]",,,1968-05-03
+85,4,81,0,MIL,US Air Force (56-4376),Fairchild C-123B-18-FA Provider,"near Tuy Hòa, Vietnam","ENR
+[327]",,,1965-12-11
+85,4,81,0,COM,Paradise Airlines Flight 901A,Lockheed L-049 Constellation,"Genoa, Nevada, US","ENR
+[328]",,,1964-03-01
+84,7,77,0,COM,Aeroflot Flight 2808,Tupolev Tu-134A,"Andreevo, Ivanovo Oblast, Russia","APR
+[329]",IWA,"3 km
+(1.9 mi)",1992-08-27
+84,0,84,0,MIL,Fuerza Aérea Sandinista (265),Mil Mi-8TV,"near San Andres de Bocay, Nicaragua","UNK
+[330][331]",,,1982-12-09
+84,12,72,0,MIL,US Air Force (60-0373),Boeing C-135 Stratolifter,"Santiago Canyon, California, US","ENR
+[332]",,,1965-06-25
+84,5,79,0,COM,Eastern Air Lines Flight 663,Douglas DC-7B,"Atlantic Ocean, off Jones Beach, New York, US","ENR
+[333][334]",,,1965-02-08
+84,8,76,0,EXG,Aeroflot Flight 902,Tupolev Tu-104A,"near Voznesenka, Krasnoyarsk Krai, Russian SFSR, USSR","ENR
+[335]",,,1962-06-30
+83,4,79,0,COM,Singapore Airlines Flight 006,Boeing 747-412,"Dayuan District, Taiwan","TOF
+[336]",TPE,,2000-10-31
+83,11,72,0,MIL,Russian Air Force (RA-74295),Ilyushin Il-18D,"Zundagi, Adjara, Georgia","APR
+[337]",BUS,"18 km
+(11.3 mi)",2000-10-25
+83,4,79,0,COM,Palair Macedonian Airlines Flight 301,Fokker 100,"Petrovec, Republic of Macedonia","ICL
+[338]",SKP,"0.38 km
+(0.24 mi)",1993-03-05
+83,5,78,0,MIL,Afghanistan Air Force,Antonov An-12,"near Shindand, Afghanistan","ICL
+[339]",OAH,,1990-08-10
+83,9,74,0,COM,Thai Airways Flight 365,Boeing 737-2P5,"Phuket, Thailand","APR
+[340]",HKT,"15 km
+(9.3 mi)",1987-08-31
+83,5,78,0,COM,"Allegheny Airlines Flight 853 and
+Private aircraft (N7374J)",McDonnell Douglas DC-9-30 and Piper PA-28 Cherokee,"Fairland, Indiana, US","ENR
+[341][342]",,,1969-09-09
+83,9,74,0,COM,Aeroflot Flight 15,Ilyushin Il-18D,"Parchum, Chunsky District, Russian SFSR, USSR","ENR
+[343]",,,1968-02-29
+83,5,78,0,COM,American Flyers Flight 280,Lockheed L-188 Electra,"Ardmore, Oklahoma, US","APR
+[344]",ADM,"2.4 km
+(1.5 mi)",1966-04-22
+83,8,75,0,COM,British Eagle International Airlines Flight 802,Bristol 175 Britannia 312,"Glungezer mountain, Austria","ENR
+[345]",,,1964-02-29
+83,6,77,0,COM,President Airlines (N90773),Douglas DC-6B,"Shannon, Ireland","ICL
+[346]",SNN,"1.5 km
+(0.9 mi)",1961-09-10
+82,5,77,0,COM,Tajikistan Airlines (87995),Yakovlev Yak-40,"Khorog, Tajikistan","TOF
+[347]",UTOD,"0.2 km
+(0.12 mi)",1993-08-28
+82,7,60,15,COM,Aeroméxico Flight 498 and Private aircraft (N4891F),McDonnell Douglas DC-9-32 and Piper PA-28-181 Archer,"Cerritos, California, US","APR
+[348][349]",LAX,"c. 33 km
+(21 mi)",1986-08-31
+82,8,74,0,INH,Aeroflot Flight 109,Tupolev Tu-104B,"Area of Chita, Russian SFSR, USSR","ENR
+[350]",,,1973-05-19
+82,6,76,0,COM,"Piedmont Airlines Flight 22 and
+Private aircraft (N31215S)",Boeing 727-22 and Cessna 310,"Hendersonville, North Carolina, US","ENR
+[351]",,,1967-07-19
+82,8,74,0,COM,TABSO Flight 101,Ilyushin Il-18B,"Bratislava, Czechoslovakia","ENR
+[352]",,,1966-11-24
+81,4,77,0,EXS,Itavia Flight 870,McDonnell Douglas DC-9-15,"Tyrrhenian Sea, near Ustica, Italy","ENR
+[353][354]
+[nb 19]",,,1980-06-27
+81,15,66,0,INB,Middle East Airlines Flight 438,Boeing 720-023B,"As Sufayri, Hafar Al-Batin, Saudi Arabia","ENR
+[356]",,,1976-01-01
+81,10,71,0,INB,Cathay Pacific Airways Flight 700Z,Convair 880-22M-21,"area of Pleiku, Vietnam","ENR
+[357]",,,1972-06-15
+81,8,73,0,COM,Pan Am Flight 214,Boeing 707-121,"Elkton, Maryland, US","APR
+[358][359]",PHL,"55 km
+(34 mi)",1963-12-08
+81,7,74,0,COM,Aeroflot Flight 415,Antonov An-10A,"Kholodnaia Rechka, Gagra District, Abkhaz ASSR, Georgian SSR, USSR","APR
+[360]",AER,"21 km
+(13.1 mi)",1962-07-28
+80,9,71,0,MIL,Moroccan Air Force (CAN-OQ),Lockheed C-130 Hercules,"Goulimime, Morocco","APR
+[361]",GLN,"10 km
+(6.2 mi)",2011-07-26
+80,14,56,10,COM,Cubana de Aviación Flight 389,Tupolev Tu-154M,"Quito, Ecuador","TOF
+[362]",UIO,,1998-08-29
+80,4,76,0,COM,Air Mauritanie Flight 625,Fokker F28 Fellowship 4000,"Tidjikja, Mauritania","LDG
+[363]",TIY,,1994-07-01
+80,4,76,0,COM,Fuerza Aérea Colombiana (FAC-902),Douglas DC-6B,"near Leticia, Colombia","ENR
+[364]",,,1985-07-24
+80,[nb 20],[nb 21],20,MIL,Iranian Air Force (5-8552),Lockheed C-130H Hercules,"Kahrizak, Iran","ENR
+[365]",,,1981-09-29
+80,7,73,0,COM,Union de Transportes Aériens (F-BHMS),Douglas DC-6B,"Mt. Alcazaba, Spain","ENR
+[366]",,,1964-10-02
+80,5,74,1,MIL,US Air Force (61-0332),Boeing C-135B,"Angeles City, Philippines","APR
+[367]",CRK,"<0.1 km
+(0.06 mi)",1964-05-11
+80,6,74,0,COM,Swissair Flight 306,Sud Aviation SE-210 Caravelle III,"Dürrenäsch, Switzerland","ENR
+[368]",,,1963-09-04
+80,7,73,0,COM,World Airways Flight 830,Douglas DC-6A,"Mt. Barrigada, near Barrigada, Guam, US","ENR
+[369]",,,1960-09-19
+80,9,71,0,COM,Aeroflot (CCCP-42362),Tupolev Tu-104A,"Vurnarsky District, Chuvash ASSR, Russian SFSR, USSR","ENR
+[370]",,,1958-10-17
+80,5,75,0,COM,Fairflight (G-AKBY),Avro 689 Tudor V,"Sigingstone, Wales, UK","APR
+[371]",***,"0.76 km
+(0.47 mi)",1950-03-12
+79,3,72,4,COM,Korean Air Flight 803,McDonnell Douglas DC-10-30,"Tripoli, Libya","APR
+[85][372]",TIP,"c. 2 km
+(1.2 mi)",1989-07-27
+79,7,72,0,COM,Aeroflot Flight 630,Ilyushin Il-18V,"near Khujand, Tajik SSR, USSR","ENR
+[373]",,,1973-02-24
+79,6,73,0,MIL,US Air Force (55-4574),Fairchild C-123K,"Khánh Phu, Khánh Hòa Province, Vietnam","ENR
+[374]",,,1970-11-27
+79,7,72,0,COM,Mexicana Flight 704,Boeing 727-64,"El Carmen, Mexico","ENR
+[375]",,,1969-06-04
+79,6,73,0,COM,Maritime Central Airways Flight 315,Douglas DC-4,"Issoudun, Quebec, Canada","ENR
+[376]",,,1957-08-11
+78,12,66,0,EXG,Siberia Airlines Flight 1812,Tupolev Tu-154M,"Black Sea, area of Ünye, Turkey","ENR
+[377]",,,2001-10-04
+78,4,70,4,COM,Air Florida Flight 90,Boeing 737-222,"Washington, D.C., US","ICL
+[378][379]",DCA,"1.4 km
+(0.9 mi)",1982-01-13
+78,7,70,1,MIL,Indian Air Force,Antonov An-12,"Leh, India","APR
+[380]",IXL,"0.5 km
+(0.3 mi)",1978-11-19
+78,3,75,0,COM,Wenela Air Services (A2-ZER),Douglas DC-4,"Francistown, Botswana","APR
+[381]",FRW,"3.6 km
+(2.2 mi)",1974-04-04
+78,10,68,0,COM,Pan Am Flight 816,Boeing 707-321B,"Pacific Ocean, off Papeete, Tahiti, French Polynesia","ENR
+[382][383]",,,1973-07-22
+78,3,75,0,COM,Aviogenex Flight 130,Tupolev Tu-134A,"Omišalj, SR Croatia, Yugoslavia","LDG
+[384]",RJK,,1971-05-23
+78,5,73,0,COM,TWA Flight 529,Lockheed L-049 Constellation,"Hinsdale, Illinois, US","ENR
+[385][386]",,,1961-09-01
+78,9,69,0,INB,Air France Flight 406,Lockheed L-1649A Starliner,"near Zarzaitine, Algeria","ENR
+[387]",,,1961-05-10
+77,4,72,0,MIL,Algerian Air Force C-130,Lockheed C-130 Hercules,"Aïn Kercha, Oum El Bouaghi Province, Algeria","ENR
+[388]",,,2014-02-11
+77,8,69,0,COM,Iran Air Flight 277,Boeing 727-286Adv,"Urmia, Iran","APR
+[389]",OMH,"8 km
+(5 mi)",2011-01-09
+77,0,0,77,MIL,Sknyliv air show disaster,Sukhoi Su-27,"Lviv, Ukraine","MNV
+[390]",LWO,,2002-07-27
+77,9,68,0,MIL,Soviet Air Force (CCCP-86732),Ilyushin IL-76M,"Gyumri, Armenia","APR
+[391]",LWN,"15 km
+(9.4 mi)",1988-12-11
+77,1,76,0,COM,Aeroflot Flight 5003,Ilyushin Il-18V,"near Mineralnye Vody, Russian SFSR, USSR","APR
+[392]",MRV,"<5 km
+(3 mi)",1977-02-15
+77,3,74,0,COM,Imperial Airlines Flight 201/8,Lockheed L-049 Constellation,"Richmond, Virginia, US","APR
+[393][394]",RIC,"1.5 km
+(0.9 mi)",1961-11-08
+77,6,71,0,COM,Air France Flight 2005,Sud Aviation SE-210 Caravelle III,"Rabat, Morocco","APR
+[395]",RBA,"9 km
+(5.6 mi)",1961-09-12
+76,5,71,0,MIL,Afghanistan Air Force,Antonov An-32,"Tashkurgan, Afghanistan","ENR
+[396][397]",,,1993-04-27
+76,6,70,0,COM,ČSA Flight 001,Ilyushin Il-18B,"Bratislava, Czechoslovakia","APR
+[398]",BTS,"1.5 km
+(0.93 mi)",1976-07-28
+76,5,69,2,MIL,"Air Vietnam C-54D (XV-NUG)
+and US Air Force",Douglas C-54D-10-DC Skymaster and F-4 Phantom II,"Da Nang, Vietnam","APR
+[399]",DAD,"3 km
+(1.9 mi)",1969-09-20
+75,13,62,0,COM,UM Airlines Flight 4230,Yakovlev Yak-42,"Maçka, Trabzon, Turkey","APR
+[400]",TZX,"c. 23 km
+(14 mi)",2003-05-26
+75,5,70,0,COM,Turkish Airlines Flight 634,Avro RJ100,"Diyarbakır, Turkey","APR
+[401]",DIY,"0.9 km
+(0.56 mi)",2003-01-08
+75,6,69,0,COM,Peruvian Air Force (FAP-351),Boeing 737-282,"Andoas, Peru","ENR
+[402]",,,1998-05-05
+75,5,70,0,MIL,Sri Lanka Air Force (CR861),Antonov An-32B,"Laccadive Sea, off Colombo, Sri Lanka","ENR
+[403]",,,1995-09-12
+75,12,63,0,COM,Aeroflot Flight 593,Airbus A310-304,"near Mezhdurechensk, Russia","ENR
+[404]",,,1994-03-23
+76,3,73,0,COM,Vietnam Airlines Flight 831,Tupolev Tu-134,"Lam Luk Ka District, Thailand","APR
+[405]",DMK,"6 km
+(3.7 mi)",1988-09-09
+75,4,71,0,COM,Inex-Adria Aviopromet Flight 450,McDonnell Douglas DC-9-32,"Prague, Czechoslovakia","APR
+[406]",PRG,"8 km
+(5 mi)",1975-10-30
+75,6,69,0,COM,Avensa Flight 358,McDonnell Douglas DC-9-14,"near Maturín, Venezuela","ENR
+[407]",,,1974-12-22
+75,8,67,0,INH,Air Vietnam Flight 706 hijacking,Boeing 727-121C,"near Phan Rang, Vietnam","ICL
+[408]",DAD,,1974-09-15
+75,4,71,0,COM,Southern Airways Flight 932,McDonnell Douglas DC-9-31,"Ceredo, West Virginia, US","APR
+[409][410]",HTS,"1.6 km
+(1 mi)",1970-11-14
+74,4,70,0,COM,Hewa Bora Airways Flight 952,Boeing 727-022,"Kisangani, DR Congo","LDG
+[411]",FKI,"<0.1 km
+(0.06 mi)",2011-07-08
+74,5,69,0,COM,Austral Líneas Aéreas Flight 2553,McDonnell Douglas DC-9-32,"Nuevo Berlín, near Fray Bentos, Uruguay","ENR
+[412]",,,1997-10-10
+74,5,69,0,COM,Lloyd Aéreo Boliviano (CP-698),Douglas DC-6B,"Mt. Choquetanga, Cordillera Kimsa Cruz, Bolivia","ENR
+[413]",,,1969-09-26
+74,10,64,0,COM,Linea Aeropostal Venezolana Flight 253,Lockheed L-1049 Super Constellation,"New York Bight, Atlantic Ocean, area of Jones Beach, New York, US","ENR
+[414]",,,1956-06-20
+73,6,67,0,MIL,Israeli Air Force (357) and Israeli Air Force (903),Sikorsky S-65C-3 Yas'ur 2000 (both),"She'ar Yashuv, Israel","ENR
+[415][416][417]",,,1997-02-04
+73,8,65,0,COM,Avianca Flight 52,Boeing 707-321B,"Cove Neck, New York, US","APR
+[418][419]",JFK,"c. 36 km
+(22 mi)",1990-01-25
+73,[nb 22],[nb 23],0,MIL,Ethiopian Air Force,Antonov An-26,"near Addis Ababa, Ethiopia","UNK
+[420]",,,1982-01-14
+73,9,63,1,COM,Western Airlines Flight 2605,McDonnell Douglas DC-10-10,"Mexico City, Mexico","LDG
+[421]",MEX,"1.5 km
+(0.9 mi)",1979-10-31
+73,7,66,0,COM,Balkan Bulgarian (LZ-TUB),Tupolev Tu-134,"Gabare, Vratsa Province, Bulgaria","ENR
+[422]",,,1978-03-16
+73,25,48,0,INB,Cubana de Aviación Flight 455,Douglas DC-8-43,"Atlantic Ocean, off Christ Church Parish, Barbados","ENR
+[423]",,,1976-10-06
+73,11,61,1,COM,Sabena Flight 548,Boeing 707-320,"Brussels, Belgium","APR
+[424]",BRU,"3 km
+(1.9 mi)",1961-02-15
+73,[nb 24],[nb 25],0,MIL,USS Akron,Akron-class rigid airship,"Atlantic Ocean, off Barnegat Light, New Jersey, US",[5][425],,,1933-04-04
+72,8,15,49,MIL,Russian Air Force (RA-82005),Antonov An-124-100,"Irkutsk, Russia","ICL
+[426]",IKT,"1.6 km
+(1 mi)",1997-12-06
+72,9,63,0,COM,Aeroflot Flight 892,Tupolev Tu-134A,"Bohnsdorf, East Germany","APR
+[427]",SXF,"3.5 km
+(2.2 mi)",1986-12-12
+72,2,61,9,COM,Southern Airways Flight 242,McDonnell Douglas DC-9-31,"New Hope, Georgia, US","ENR
+[428][429]",,,1977-04-04
+72,5,67,0,COM,Aeroflot Flight 2415,Tupolev Tu-104B,"Dmitrovsky District, Moscow Oblast, Russian SFSR, USSR","ENR
+[430]",,,1976-11-28
+72,2,70,0,COM,Eastern Air Lines Flight 212,McDonnell Douglas DC-9-31,"Charlotte, North Carolina, US","APR
+[431][432]",CLT,"5.3 km
+(3.3 mi)",1974-09-11
+72,6,66,0,COM,Faucett (OB-R-148),Douglas C-54A-5-DC Skymaster,"Cordillera Blanca, Peru","ENR
+[433]",,,1967-12-08
+72,3,69,0,COM,British Midland Airways Flight (G-ALHG),Canadair C-4 Argonaut,"Stockport, England, UK","APR
+[434]",MAN,"c. 9 km
+(5.6 mi)",1967-06-04
+72,8,64,0,COM,ČSA Flight 511,Ilyushin Il-18V,"Bouskoura, Morocco","ENR
+[435]",,,1961-07-12
+71,6,65,0,COM,Saratov Airlines Flight 703,Antonov An-148,"near Stepanovskoye, Moscow Oblast, Russia","ICL
+[436]",OSW,,2018-02-11
+71,7,64,0,COM,LaMia Airlines Flight 2933,Avro RJ85,"Medellin, Colombia","ENR
+[437]",,,2016-11-28
+71,11,60,0,COM,Bashkirian Airlines Flight 2937 and DHL Flight 611,Tupolev Tu-154M and Boeing 757-23APF,"Überlingen, Germany","ENR
+[438][439]",,,2002-07-01
+71,3,68,0,COM,Cameroon Airlines Flight 3701,Boeing 737-200,"Douala, Cameroon","APR
+[440]",DLA,"6 km
+(3.7 mi)",1995-12-03
+71,9,43,19,COM,EgyptAir Flight 864,Boeing 707-366C,"Bangkok, Thailand","APR
+[441]",DMK,"2 km
+(1.2 mi)",1976-12-25
+70,8,62,0,COM,Aerosvit Flight 241,Yakovlev Yak-42,"Pierian Mountains, Greece","ENR
+[442]",,,1997-12-17
+70,9,61,0,COM,Aeroperú Flight 603,Boeing 757-23A,"Pacific Ocean, area of Lima, Peru","ENR
+[443]",,,1996-10-02
+70,7,63,0,COM,Mandala Airlines Flight 660,Vickers Viscount 816,"Mt. Lalaboy, Ambon Island, Indonesia","APR
+[444]",AMQ,"15 km
+(9.3 mi)",1992-07-24
+70,3,0,67,MIL,Ramstein air show disaster,Aermacchi MB-339 PAN (x3),"Ramstein-Miesenbach, West Germany","MNV
+[445]",RMS,,1988-08-28
+70,4,66,0,COM,Aeroflot Flight 6502,Tupolev Tu-134A,"Kurumoch, Samara Oblast, Russian SFSR, USSR","LDG
+[446]",KUF,,1986-10-20
+70,6,64,0,COM,Galaxy Airlines Flight 203,Lockheed L-188 Electra,"Reno, Nevada, US","ICL
+[447][448]",RNO,"3 km
+(1.9 mi)",1985-01-21
+70,7,63,0,COM,TAC Colombia HK-1810,Sud Aviation SE-210 Caravelle,"Riohacha, Colombia","ENR
+[449]",,,1980-12-21
+70,5,65,0,COM,TWA Flight 128,Convair CV-880-22-1,"Hebron, Kentucky, US","APR
+[450][451]",CVG,"2.9 km
+(1.8 mi)",1967-11-20
+69,6,63,0,COM,Indian Airlines Flight 257,Boeing 737-2A8,"Imphal, India","APR
+[452]",IMF,"8 km
+(5 mi)",1991-08-16
+69,9,59,1,COM,Aeroflot Flight 331,Ilyushin Il-62M,"Boyeros, Cuba","APR
+[453]",HAV,"1 km
+(0.6 mi)",1977-05-27
+69,7,62,0,COM,Merpati Nusantara Airlines Viscount (PK-MVS),Vickers Viscount 828,"Mentawai Strait, off Padang, Indonesia","ENR
+[454]",,,1971-11-10
+69,9,60,0,COM,Fuerza Aérea Argentina (TC-48),Douglas C-54 Skymaster,Central America[nb 26],"ENR
+[455]",,,1965-11-03
+68,7,61,0,COM,Aero Caribbean Flight 883,ATR 72-212,"Guasimal, Cuba","ENR
+[456]",,,2010-11-04
+68,4,64,0,COM,American Eagle Flight 4184,ATR 72-212,"near Roselawn, Indiana, US","APR
+[457][458]",ORD,"108 km
+(67 mi)",1994-10-31
+68,2,66,0,COM,Asiana Airlines Flight 733,Boeing 737-5L9,"Mokpo, South Korea","APR
+[459]",MPK,"7 km
+(4.3 mi)",1993-07-26
+68,8,60,0,COM,Fuerza Aérea Venezolana (7772),Lockheed C-130H Hercules,"Lajes, Azores, Portugal","APR
+[460]",TER,"<1 km
+(0.6 mi)",1976-09-03
+68,7,61,0,COM,Iberia Flight 504 and Spantax Flight 400,McDonnell Douglas DC-9-32 and Convair CV-990-30A-5,"La Planche, France","ENR
+[461][462]",,,1973-03-05
+68,4,64,0,COM,Toa Domestic Airlines Flight 63,NAMC YS-11A-217,"Yokotsu Mtn., Hakodate, Japan","ENR
+[463]",,,1971-07-03
+68,9,59,0,COM,TWA Flight 891,Lockheed L-1649 Starliner,"Busto Arsizio, Italy","ENR
+[464][465]",,,1959-06-26
+67,4,63,0,COM,Transporte Aéreo Militar (TAM-44),Convair CV-440-12,"Cordillera Mts., La Paz Region, Bolivia","ENR
+[466]",,,1975-10-27
+67,8,59,0,COM,Aeroflot Flight 25,Ilyushin Il-18,"Urakhcha, Rybno-Slobodsky District, Tatar ASSR, Russian SFSR, USSR","ENR
+[467]",,,1963-04-04
+67,7,60,0,COM,Aerolíneas Argentinas Flight 644,Douglas DC-6,"Cachari, Buenos Aires, Argentina","ENR
+[468]",,,1961-07-19
+67,10,57,0,MIL,US Air Force (50-0702),Boeing C-97C-35-BO,Pacific Ocean,"ENR
+[469]",,,1957-03-22
+66,6,60,0,COM,Iran Aseman Airlines Flight 3704,ATR 72-212,"Mount Dena, Zagros Mountains near Semirom, Iran","ENR
+[470]",,,2018-02-18
+66,10,56,0,COM,EgyptAir Flight 804,Airbus A320-232,eastern Mediterranean Sea,ENR[471],,,2016-05-19
+66,7,59,0,COM,Iran Aseman Airlines Flight 746,Fokker F28 Fellowship 1000,"Natanz, Iran",ENR[472],,,1994-10-12
+66,4,62,0,COM,Turkish Airlines Flight 301,Fokker F28-1000 Fellowship,"Cumaovası, Turkey","TOF
+[473]",ADB,,1974-01-26
+66,4,62,0,COM,Aeroflot Flight 141,Tupolev Tu-154,"Prague, Czechoslovakia","APR
+[474]",PRG,"0.5 km
+(0.3 mi)",1973-02-19
+66,7,59,0,INB,Cyprus Airways Flight 284,de Havilland Comet 4,"Mediterranean, near Demre, Turkey","ENR
+[475]",,,1967-10-12
+66,3,63,0,COM,United Airlines Flight 409,Douglas DC-4,"Medicine Bow Peak, Wyoming, US","ENR
+[476][477]",,,1955-10-06
+66,11,55,0,MIL,1955 Altensteig mid-air collision,Fairchild C-119 Flying Boxcar (x2),"near Altensteig, West Germany","MNV
+[478]",,,1955-08-11
+66,9,57,0,COM,United States Navy (131612),Douglas R6D-1 (DC-6),"Pali Kea Peak, Waianae Range, Oahu, Hawaii, US","APR
+[479]",HNL,"24 km
+(15 mi)",1955-03-22
+65,0,65,0,COM,Iran Aseman Airlines/Itek Air Flight 6895,Boeing 737-219,"Bishkek, Kyrgyzstan","APR
+[480]",FRU,"c. 2 km
+(1.2 mi)",2008-08-24
+65,3,60,2,COM,LAPA Flight 3142,Boeing 737-204C,"Palermo, Argentina","TOF
+[481]",AEP,,1999-08-31
+65,6,59,0,COM,Vietnam Airlines Flight 815,Tupolev Tu-134,"Phnom Penh, Cambodia","APR
+[482]",PNH,"0.3 km
+(0.19 mi)",1997-09-03
+65,7,58,0,COM,Aviateca Flight 901,Boeing 737-200,"San Vicente volcano, El Salvador","APR
+[483]",SAL,"24 km
+(15 mi)",1995-08-09
+65,8,57,0,COM,Aeroflot Flight 1969,Antonov An-10,"Lutuhyne, Ukrainian SSR, USSR","APR
+[484]",VSG,"13 km
+(8.1 mi)",1971-03-31
+65,2,63,0,COM,American Airlines Flight 320,Lockheed L-188 Electra,"East River, New York, US","APR
+[485][486]",LGA,"1.5 km
+(0.9 mi)",1959-02-03
+64,9,55,0,COM,"Aeroflot Flight 7957
+and Aeroflot Flight 31",Antonov An-24 and Yakovlev Yak-40,"Black Sea, near Anapa, Russian SFSR, USSR","ENR
+[487][488]",,,1976-09-09
+64,10,54,0,COM,Canadian Pacific Airlines Flight 402,Douglas DC-8-43,"Tokyo, Japan","APR
+[489]",HND,"0.85 km
+(0.53 mi)",1966-03-04
+64,3,61,0,COM,Aeroflot Flight 20,Ilyushin Il-18B,"Almaty, Kazakh SSR, USSR","APR
+[490]",ALA,"0.2 km
+(0.12 mi)",1965-01-04
+64,11,53,0,COM,Aeroflot Flight 4,Tupolev Tu-104A,"near Chita, Russian SFSR, USSR","ENR
+[491]",,,1958-08-15
+63,5,58,0,COM,Elleniki Polemikí Aeroporía (748),Lockheed C-130H Hercules,"Mount Othrys, Greece","ENR
+[492]",,,1991-02-05
+63,3,60,0,INH,Iraqi Airways Flight 163,Boeing 737-270C,"near Arar, Saudi Arabia","ENR
+[493]",,,1986-12-25
+63,5,58,0,COM,Aeroflot Flight 5484,Tupolev Tu-124V,"near Kirsanov, Russian SFSR, USSR","ENR
+[494]",,,1979-08-29
+63,8,55,0,COM,Aeroflot Flight 6551,Ilyushin Il-18,"Maksut, Zharma District, Kazakh SSR, USSR","ENR
+[495]",,,1973-05-11
+63,8,55,0,COM,British European Airways Flight 706,Vickers 951 Vanguard,"Aarsele, Belgium","ENR
+[496][497]",,,1971-10-02
+63,11,52,0,COM,Air France Flight 212 (F-BLCJ),Boeing 707-328C,"La Grande Soufrière volcano, Guadeloupe","APR
+[498]",PTP,"27.5 km
+(17.1 mi)",1968-03-05
+63,8,55,0,COM,United Arab Airlines Flight 869,de Havilland Comet 4C,"Arabian Sea, off Mumbai, India","APR
+[499][nb 27]",BOM,"10 km
+(6.2 mi)",1963-07-27
+63,8,55,0,COM,Air France Flight 343,Lockheed L-1049G,"Yoff, Senegal","APR
+[501]",DKR,"1.6 km
+(1 mi)",1960-08-29
+63,6,57,0,COM,Northwest Orient Airlines Flight 710,Lockheed L-188C Electra,"Cannelton, Indiana, US","ENR
+[502][503]",,,1960-03-17
+62,12,50,0,COM,Sriwijaya Air Flight 182,Boeing 737-524,"Java Sea, Indonesia","ENR
+[504]",,,2021-01-09
+62,7,55,0,COM,Flydubai Flight 981,Boeing 737-8KN,"Rostov-on-Don, Russia","LDG
+[505]",ROV,,2016-03-19
+62,6,56,0,MIL,Sri Lanka Air Force (CR862),Antonov An-32B,"Jaffna, Sri Lanka","APR
+[506]",JAF,"13 km
+(8.1 mi)",1995-11-22
+62,5,56,1,COM,Aeroflot Flight 2003,Tupolev Tu-124V,"Kokoshkino, Moscow Oblast, Russian SFSR, USSR","ICL
+[507]",VKO,"7 km
+(4.4 mi)",1976-01-03
+62,11,51,0,COM,Air France Flight 212 (F-BHSZ),Boeing 707-328B,"Caribbean, off Maiquetía, Venezuela","ENR
+[508][509]",,,1969-12-04
+62,3,59,0,COM,Eastern Air Lines Flight 375,Lockheed L-188 Electra,"Boston, Massachusetts, US","ICL
+[510][511]",BOS,"c. 1 km
+(0.6 mi)",1960-10-04
+62,3,59,0,COM,Trans-Canada Air Lines Flight 810,Canadair North Star,"Slesse Mountain, B.C., Canada","ENR
+[512]",,,1956-12-09
+61,11,50,0,COM,China Southwest Airlines Flight 4509,Tupolev Tu-154M,"Wenzhou, Zhejiang, China","APR
+[513]",WNZ,"1 km
+(0.6 mi)",1999-02-24
+61,3,58,0,MIL,Russian Air Force,Mil Mi-8T,"near Lata, Georgia","UNK
+[514][515]",,,1992-12-14
+61,4,57,0,COM,Garuda Indonesia (PK-GVE),Fokker F28-1000 Fellowship,"Mount Sibayak, near Berastagi, Indonesia","ENR
+[516]",,,1979-07-11
+61,9,52,0,COM,Japan Airlines Flight 446,McDonnell Douglas DC-8-62,"Moscow, Russian SFSR, USSR","ICL
+[517]",SVO,,1972-11-28
+61,5,56,0,COM,Royal Air Maroc (CN-CCV),Sud Aviation SE-210 Caravelle III,"Berrechid, Morocco","APR
+[518]",CMN,"5.5 km
+(3.4 mi)",1970-04-01
+61,4,57,0,COM,Aer Lingus Flight 712,Vickers Viscount 803,"St George's Channel, off Wexford, Ireland","ENR
+[519]",,,1968-03-24
+61,14,47,0,COM,Viasa Flight 897,Douglas DC-8-53,"Atlantic Ocean, off Fonte da Telha, Lisboa, Portugal","ENR
+[520]",,,1961-05-30
+61,11,50,0,COM,"US Navy (131582) and
+Real Transportes Aéreos (PP-AXD)",Douglas R6D-1 (DC-6A) and Douglas DC-3,"Guanabara Bay, Brazil","APR
+[521][522]",GIG,"<5 km
+(3.1 mi)",1960-02-25
+61,9,52,0,COM,Sabena (OO-SFA),Douglas DC-7C,"Casablanca, Morocco","APR
+[523]",CAS,"0.6 km
+(0.37 mi)",1958-05-18
+61,6,55,0,COM,Aerolíneas Argentinas Flight 670,Douglas DC-4,"near Bolívar, Argentina","ENR
+[524]",,,1957-12-08
+61,3,0,58,MIL,US Army Air Force (42-50291),Consolidated B-24 Liberator,"Freckleton, England, UK","APR
+[525]",EGNO,"c. 1.3 km
+(0.8 mi)",1944-08-23
+61,11,0,50,MIL,US Air Force (42-40682),Consolidated B-24 Liberator,"Port Moresby, Papua New Guinea (then Territory of Papua)","UNK
+[526]",,,1943-09-07
+60,6,54,0,COM,Equatorial Express Airlines (3C-VQR),Antonov An-24B,"Baney, Equatorial Guinea","ENR
+[527]",,,2005-07-16
+60,6,49,5,COM,Alliance Air Flight 7412,Boeing 737-2A8,"Patna, Bihar, India","APR
+[528]",PAT,"2 km
+(1.2 mi)",2000-07-17
+60,10,50,0,COM,TAROM Flight 371,Airbus A310-324,"Balotești, Romania","ENR
+[529]",,,1995-03-31
+60,[nb 28],[nb 29],0,MIL,Georgian Air Force,Mil Mi-8,"near Svaneti, Georgia","UNK
+[530][531]",,,1993-10-04
+60,3,57,0,EXG,Sudan Airways (ST-ADY),Fokker F27 Friendship 400M,"near Malakal, South Sudan","ENR
+[532]",,,1986-08-16
+60,0,60,0,INH,EgyptAir Flight 648,Boeing 737-266,"Luqa, Malta","STD
+[533]",MLA,,1985-11-24
+60,10,50,0,COM,Malév Flight 240,Tupolev Tu-154B,"Mediterranean, off Beirut, Lebanon","APR
+[534]",BEY,"10 km
+(6.2 mi)",1975-09-30
+60,5,55,0,COM,Air Inter Flight 696,Vickers Viscount 724,"Noirétable, France","ENR
+[535]",,,1972-10-27
+59,6,53,0,COM,Fuerza Aérea del Peru (FAP-329),de Havilland Canada DHC-5,"Tarma, Peru","ENR
+[536]",,,1989-06-21
+59,5,54,0,EXG,Air Rhodesia Flight 827,Vickers Viscount 748D,"near Kariba, Zimbabwe (then Rhodesia)","ENR
+[537]",,,1979-02-12
+59,0,59,0,COM,Libyan Arab Airlines (LZ-BTN),Tupolev Tu-154,"Ar Rajma, Libya","ENR/LDG
+[538]",,,1977-12-02
+59,4,55,0,COM,SAETA Flight 232,Vickers Viscount 785D,"Chimborazo volcano, Andes Mts., Ecuador","ENR
+[539]",,,1976-08-15
+59,4,55,0,COM,Lufthansa Flight 540,Boeing 747-130,"Nairobi, Kenya","TOF
+[540]",NBO,"1.1 km
+(0.68 mi)",1974-11-20
+59,3,12,44,MIL,Korean Air Force,Curtiss C-46,"near Yeouido, South Korea","ENR
+[541]",,,1967-04-08
+59,2,57,0,MIL,US Marine Corps (149802),Lockheed KC-130F Hercules,"Kowloon Bay, Hong Kong, China","TOF
+[542][543]",HKG,,1965-08-24
+59,9,50,0,COM,Aeroflot Flight 245,Ilyushin Il-18B,"Chebotovka, Tarasovsky District, Russian SFSR, USSR","ENR
+[544]",,,1961-12-17
+59,4,55,0,COM,Lloyd Aéreo Boliviano (CP-609),Douglas DC-4,"Arbieto, Bolivia","ENR
+[545]",,,1960-02-05
+59,9,50,0,COM,US Navy (131588),Douglas R6D-1,"Porcupine Seabight, Atlantic Ocean","ENR
+[546]",,,1956-10-10
+59,4,55,0,MIL,US Army Air Force (44-78591),Curtiss C-46F-1-CU,"Fangshan, Fangshan District, China","APR
+[547]",NAY,"25 km
+(15.6 mi)",1945-10-12
+58,6,52,0,MIL,Yemen Air Force,Antonov An-12,"Sirwah, Yemen","ENR
+[548]",,,1992-07-14
+58,3,55,0,COM,Aeroflot Flight 7841,Tupolev Tu-134AK,"Minsk, Byelorussian SSR, USSR","ICL
+[549]",MSQ,"10 km
+(6.3 mi)",1985-02-01
+58,1,57,0,COM,Aeroflot Flight 1691,Tupolev Tu-104B,"Moscow, Russian SFSR, USSR","ENR
+[550]",,,1979-03-17
+58,5,53,0,INB,Air Vietnam (XV-NUI),Douglas C-54D-15-DC Skymaster,"Buôn Ma Thuột, Vietnam","APR
+[551]",BMV,"6.5 km
+(4.1 mi)",1973-03-19
+58,2,55,1,COM,Pan African Airlines (N90427),Douglas C-54B-1-DC Skymaster,"Agwa, Rivers State, Nigeria","APR
+[552]",PHC,"1.5 km
+(0.9 mi)",1968-09-28
+58,5,53,0,COM,American Airlines Flight 383,Boeing 727-23,"Hebron, Kentucky, US","APR
+[553][554]",CVG,"3 km
+(1.9 mi)",1965-11-08
+58,7,51,0,COM,Eastern Air Lines Flight 304,Douglas DC-8,"Lake Pontchartrain, Louisiana, US","ENR
+[555][556]",,,1964-02-25
+58,9,49,0,COM,KLM Flight 844,Lockheed 1049E,"Biak Island, Indonesia","ENR
+[557]",,,1957-07-16
+58,7,51,0,EXS,El Al Israel Airlines Flight 402/26,Lockheed L-149 Constellation,"near Petrich, Bulgaria","ENR
+[558]",,,1955-07-27
+58,8,50,0,COM,Transocean Air Lines Flight 512,Douglas DC-6,Pacific Ocean,"ENR
+[559]",,,1953-07-12
+58,7,51,0,COM,Curtiss Reid Flying Services (CF-EDN),Douglas C-54B-1-DC,"Grande Tête de l'Obiou mountain, France","ENR
+[560]",,,1950-11-13
+58,3,55,0,COM,Northwest Orient Airlines Flight 2501,Douglas DC-4,"Lake Michigan, off Benton Harbor, Michigan, US","ENR
+[561][562]",,,1950-06-23
+58,5,0,53,COM,Japan mid-air collision,Fokker Super Universal and Mitsubishi Ki1,"Tokyo, Japan","ENR
+[7][563][564]",,,1938-08-24
+57,7,50,0,COM,Atlasjet Flight 4203,McDonnell Douglas MD-83,"Keçiborlu, Turkey","APR
+[565]",ISE,"12 km
+(7.5 mi)",2007-11-30
+57,5,52,0,COM,ASA Pesada (D2-FCG),Antonov An-26,"Luanda, Angola","ENR
+[566]",,,2000-11-15
+57,5,52,0,COM,Turkish Airlines Flight 278,Boeing 737-4Y0,"Van, Turkey","APR
+[567]",VAN,"4 km
+(2.5 mi)",1994-12-29
+57,7,50,0,MIL,Soviet Air Force (CCCP-76569),Ilyushin Il-76MD,"Caspian Sea off Sumqayit, Azerbaijan SSR, USSR","ENR
+[568]",,,1989-10-18
+57,5,52,0,COM,SAETA (HC-AVP),Vickers Viscount 785D,"Pastaza Province, Ecuador","ENR
+[569]",,,1979-04-23
+57,4,53,0,COM,Aeroflot Flight 2174,Antonov An-24B,"Atamanovka, Saratov Oblast, Russian SFSR, USSR","APR
+[570]",RTW,"13 km
+(8.1 mi)",1971-12-01
+57,5,52,0,COM,Civil Air Transport (B-908),Curtiss C-46D-10-CU,"Jiaoxi, Taiwan","ICL
+[571]",RMQ,"c. 8.5 km
+(5.3 mi)",1964-06-20
+56,2,53,0,COM,Indian Airlines Flight 491,Boeing 737-2A8,"Aurangabad, India","TOF
+[572]",IXU,"1.9 km
+(1.2 mi)",1993-04-26
+56,2,54,0,COM,Martinair Flight 495,McDonnell Douglas DC-10-30CF,"Faro, Portugal","LDG
+[573]",FAO,,1992-12-21
+56,2,54,0,COM,Aeroflot Flight A-13,Antonov An-24B,"Neftyanyye Kamni, Azerbaijan","ENR
+[574]",,,1973-08-18
+56,1,50,5,COM,Varig Flight 837,Douglas DC-8-33,"Monrovia, Liberia","APR
+[575]",ROB,"1.9 km
+(1.2 mi)",1967-03-05
+56,4,52,0,COM,Avianca Flight 4,Douglas C-54,"Cartagena Bay, off Cartagena, Colombia","ICL
+[576]",CTG,"1.3 km
+(0.81 mi)",1966-01-15
+56,4,52,0,COM,Miami Airlines (N1678M),Curtiss C-46F-1-CU,"Hillside, New Jersey, US","ENR
+[577]",,,1951-12-16
+55,6,47,2,COM,China Eastern Airlines Flight 5210,Bombardier CRJ-200LR,"Baotou, Inner Mongolia, China","ICL
+[578]",BAV,"2 km
+(1.2 mi)",2004-11-21
+55,7,48,0,EXG,Lionair Flight 602,Antonov An-24,"Palk Strait, off Mannar, Sri Lanka","ENR
+[579]",,,1998-09-29
+55,1,54,0,COM,China Northwest Airlines Flight 2119,British Aerospace 146,"Yinchuan, China","TOF
+[580]",INC,,1993-07-23
+55,5,50,0,COM,Partnair Flight 394,Convair CV-580,"Skagerrak, near Hirtshals, Denmark","ENR
+[581]",,,1989-09-08
+55,2,53,0,COM,British Airtours Flight 28M,Boeing 737-236,"Manchester, England, UK","TOF
+[582]",MAN,,1985-08-22
+55,8,47,0,COM,Transbrasil Flight 303,Boeing 727-27C,"Morro da Virgínia, Santa Catarina, Brazil","APR
+[583]",FLN,"24 km
+(15 mi)",1980-04-12
+55,4,51,0,COM,Aeroflot Flight H-826,Antonov An-24B,"Preobrazhenka, Dnipropetrovsk, Ukrainian SSR, USSR","ENR
+[584]",,,1969-08-03
+55,7,48,0,COM,Air Afrique (F-BIAO),Douglas DC-6B,"Mount Cameroon, Cameroon","ENR
+[585]",,,1963-05-03
+55,7,48,0,COM,TWA Flight 903,Lockheed L-749A,"Wadi Natrun, Egypt","ENR
+[586][587]",,,1950-08-31
+55,4,51,0,COM,"Eastern Air Lines Flight 537 and
+Bolivian Air Force (NX26927)",Douglas DC-4 and Lockheed P-38 Lightning,"Alexandria, Virginia, US","APR
+[588][589]",DCA,"0.8 km
+(0.5 mi)",1949-11-01
+54,5,49,0,COM,Trigana Air Flight 267,ATR 42-300,"Mount Tangok, Pegunungan Bintang Regency, Papua, Indonesia","ENR
+[590]",,,2015-08-16
+54,7,47,0,COM,China Airlines Flight 204,Boeing 737-209,"Chiashan Mts., Hualien City, Taiwan","ENR
+[591]",,,1989-10-26
+54,5,49,0,COM,Pakistan International Airlines Flight 404,Fokker F27 Friendship 200,"Bunji, Pakistan","ENR
+[592]",,,1989-08-25
+54,[nb 30],[nb 31],0,MIL,Ethiopian Air Force,Antonov An-12,"near Asmara, Eritrea","UNK
+[593]",,,1987-01-13
+54,2,52,0,COM,Aeroflot Flight 2306,Tupolev Tu-134AK,"near Kopsa, Komi ASSR, Russian SFSR, USSR","ENR
+[594]",,,1986-07-02
+54,10,44,0,MIL,Israeli Air Force (960),Sikorsky CH-53 Sea Stallion,"Jordan Valley, Israel","UNK
+[595][8]",,,1977-05-10
+54,4,50,0,COM,Alia Royal Jordanian Airlines Herald (JY-ACQ),Handley Page HPR-7 Herald 207,"Al-Dimas, Syria","ENR
+[596]",,,1965-04-10
+54,5,49,0,COM,REAL Transportes Aéreos (PP-YRB),Convair CV-340-62,"Guanabara Bay, Brazil","APR
+[597]",GIG,"c. 3 km
+(1.9 mi)",1960-06-24
+54,9,45,0,COM,TAI (F-BIAP),Douglas DC-7C,"Mérignac, France","ICL
+[598]",BOD,"<1 km
+(0.6 mi)",1959-09-24
+53,10,43,0,COM,Air France Flight 422,Boeing 727-230,"Monserrate Mtn., Bogotá, Colombia","ENR
+[599]",,,1998-04-20
+53,6,47,0,COM,Federal Airlines (ST-FAG),Antonov An-24RV,"Khartoum North, Sudan","LDG
+[600]",[nb 32],,1996-05-03
+53,5,48,0,COM,Lineas Aéreas del Estado (TC-72) (1995),Fokker F-27 Friendship 400M,"near Champaqui, Córdoba, Argentina","ENR
+[601]",,,1995-11-08
+53,[nb 33],[nb 34],0,EXG,Bakhtar Alwatana (YA-BAL),Antonov An-26,"near Khost, Afghanistan","ENR
+[602]",,,1987-06-11
+53,4,0,49,COM,Aeroservicios Ecuatorianos Flight 767-103,Douglas DC-8-55F,"Concepción, Quito Canton, Ecuador","TOF
+[603]",UIO,,1984-09-18
+53,2,51,0,COM,Nigeria Airways (5N-ANF),Fokker F28 Fellowship 2000,"Enugu, Nigeria","APR
+[604]",ENU,"3.3 km
+(2.1 mi)",1983-11-28
+53,4,49,0,MIL,Korean Air Force (56-4391),Fairchild C-123J,"Seongnam, South Korea","TOF
+[605]",SSN,,1982-06-01
+53,6,47,0,MIL,Korean Air Force,Fairchild C-123J,"Hallasan Vol., South Korea","ENR
+[606]",,,1982-02-06
+53,5,48,0,COM,LOT Polish Airlines Flight 165,Antonov An-24W,"Polica Mtn., Poland","ENR
+[607]",,,1969-04-02
+53,9,44,0,MIL,US Air Force (49-0244),Douglas C-124A Globemaster II,"area of Biscay Abyssal Plain, Atlantic Ocean","ENR
+[608]",,,1951-03-23
+53,1,52,0,COM,Strato-Freight (NC92857),Curtiss C-46D-5-CU,"Atlantic Ocean off San Juan, Puerto Rico, US","ICL
+[609]",SIG,"10 km
+(6.3 mi)",1949-06-07
+53,4,49,0,COM,Eastern Air Lines Flight 605,Douglas DC-4,"Bainbridge, Maryland, US","ENR
+[610][611]",,,1947-05-30
+53,4,49,0,COM,Avianca (C-114),Douglas DC-4,"Mt. El Tablazo, Subachoque, Colombia","ENR
+[612]",,,1947-02-15
+53,1,0,52,MIL,Santa Ana air show disaster,Curtiss Hawk II,"Campo de Marte, Bogotá, Colombia","ENR
+[6]",,,1938-07-24
+53,2,50,0,COM,Azerbaijan Airlines Flight 56,Tupolev Tu-134B,"Nakhchivan, Azerbaijan","ICL
+[613]",NAJ,"3.8 km
+(2.4 mi)",1995-12-05
+53,[nb 35],[nb 35],3,MIL,Philippine Air Force (5125),Lockheed C-130H Hercules,"Patikul, Sulu, Philippines","APR
+[614]",JOL,,2021-07-04
+52,3,49,0,EXG,Sri Lanka Air Force (4R-HVA),British Aerospace BAe-748-357 Srs. 2b,"near Jaffna, Sri Lanka","APR
+[615]",JAF,unknown,1995-04-29
+52,4,42,6,MIL,Kenya Air Force (214),de Havilland Canada DHC-5D Buffalo,"Eastleigh, Nairobi, Kenya","APR
+[616]",HKRE,"1.7 km
+(1.1 mi)",1992-04-16
+52,5,47,0,EXG,Bakhtar Afghan Airlines (YA-BAM),Antonov An-26,"Senjaray, Kandahar Province, Afghanistan","ENR
+[617]",,,1985-09-04
+52,6,46,0,COM,Aeroflot Flight 1802,Antonov An-24RV,"Chernihiv, Ukrainian SSR, USSR","ENR
+[618]",,,1976-05-15
+52,5,47,0,COM,Lineas Aéreas del Estado (TC-72) (1975),Fokker F-27 Friendship 400M,"Pilcaniyeu, Argentina","APR
+[619]",BRC,"35 km
+(21.9 mi)",1975-03-16
+52,4,48,0,COM,Aeroflot Flight H-63,Antonov An-24B,"Vinnytsia, Ukrainian SSR, USSR","APR
+[620]",VIN,"c. 2.5 km
+(1.6 mi)",1971-11-12
+52,6,46,0,INB,Canadian Pacific Air Lines Flight 21,Douglas DC-6B,"near 100 Mile House, BC, Canada","ENR
+[621]",,,1965-07-08
+52,12,40,0,COM,Aerolíneas Argentinas Flight 322,de Havilland Comet 4,"Campinas, Brazil","ICL
+[622]",VCP,"2 km
+(1.2 mi)",1961-11-23
+52,8,44,0,COM,ČSA Flight 511,Ilyushin Il-18,"Gräfenberg, West Germany","ENR
+[623]",,,1961-03-28
+52,7,13,32,MIL,US Air Force (55-0291),Convair C-131 Samaritan,"Munich, West Germany","ENR
+[624]",,,1960-12-17
+52,3,49,0,COM,Transports Aériens Intercontinentaux (F-BGOD),Douglas DC-6B,"near New Cairo, Egypt","APR
+[625]",CAI,"29 km
+(18.1 mi)",1956-02-20
+52,11,41,0,MIL,US Air Force (51-0107),Douglas C-124A-DL Globemaster II,"Colony Glacier, Mount Gannett, Chugach Mountains, Alaska, US","ENR
+[626]",,,1952-11-22
+52,0,52,0,COM,Pan Am Flight 526A,Douglas DC-4,"Atlantic Ocean, off San Juan, Puerto Rico, US","ENR
+[627][628]",,,1952-04-11
+52,12,40,0,COM,Air France (F-BDRC),Latécoère 631,Atlantic Ocean,"ENR
+[629]",,,1948-08-01
+52,5,47,0,COM,United Airlines Flight 608,Douglas DC-6,"Bryce Canyon, Utah, US","ENR
+[630][631]",,,1947-10-24
+52,42,10,0,MIL,French airship Dixmude,Zeppelin-type rigid airship,"Mediterranean, off Sicily, Italy",[4],,,1923-12-21
+51,4,47,0,COM,US-Bangla Airlines Flight 211,Bombardier Dash 8-Q400,"Kathmandu, Nepal","LDG
+[632]",KTM,,2018-03-12
+51,4,17,30,COM,Malift Air (9Q-COS),Antonov An-26,"Kinshasa, DR Congo","TOF
+[633]",FIH,"2.0 km
+(1.2 mi)",2007-10-04
+51,6,45,0,MIL,Afghanistan Air Force,Antonov An-32,"Khojak Pass, Pakistan","APR
+[634]",UET,"110 km
+(68.4 mi)",1998-01-13
+51,5,46,0,COM,Intercontinental de Aviación Flight 256,Douglas DC-9-14,"near María La Baja, Colombia","APR
+[635]",CTG,"56 km
+(34.8 mi)",1995-01-11
+51,4,47,0,COM,Aeroflot Flight C-519,Yakovlev Yak-40,"Mt. Kukurtbash, Untsukulsky District, Dagestan ASSR, Russian SFSR, USSR","APR
+[636]",MCX,"23 km
+(14.4 mi)",1991-11-07
+51,6,45,0,COM,Air Mali (TZ-ACT),Antonov An-24B,"Timbuktu, Mali","ICL
+[637]",TOM,"3 km
+(1.9 mi)",1985-02-22
+51,6,45,0,COM,Soviet Navy (CCCP-42332),Tupolev Tu-104A,"Pushkinsky District, Leningrad, Russian SFSR, USSR","ENR
+[638]",,,1981-02-07
+51,6,45,0,COM,Aeroflot Flight 2022,Tupolev Tu-124V,"Karacharovo, Volokolamsky District, Russian SFSR, USSR","ENR
+[639]",,,1973-12-16
+51,9,42,0,COM,Pan Am Flight 217,Boeing 707-321B,"Atlantic Ocean, off Maiquetía, Venezuela","APR
+[640]",CCS,"c. 9 km
+(5.6 mi)",1968-12-12
+51,5,46,0,COM,Austral Líneas Aéreas Flight 205,Curtiss C-46A-50-CU,"Atlantic Ocean off Mar del Plata, Argentina","APR
+[641]",MDQ,"1.2 km
+(0.8 mi)",1959-01-16
+51,7,44,0,COM,Panair do Brasil Flight 099,Lockheed Constellation,"São Leopoldo, Brazil","ENR
+[642]",,,1950-07-28
+50,6,44,0,COM,Tatarstan Airlines Flight 363,Boeing 737-53A,"Kazan, Russia","LDG
+[643]",KZN,,2013-11-17
+50,4,45,1,COM,Colgan Air Flight 3407[nb 36],Bombardier DHC8-402 Q400,"Clarence Center, New York, US","APR
+[644]",BUF,"10 km
+(6.2 mi)",2009-02-12
+50,[nb 37],[nb 38],0,MIL,Sudanese Air Force,Antonov An-32,"Surayriyah, Khartoum, Sudan","ENR
+[645]",,,1999-06-03
+50,6,44,0,COM,Stavropolskaya Aktsionernaya Avia Flight 1023,Antonov An-24RV,"Cherkessk, Russia","ENR
+[646]",,,1997-03-18
+50,4,46,0,COM,Philippine Airlines Flight 206,Hawker Siddeley HS 748-209 Srs.2,"Mt. Ugu, Benguet, Philippines","APR
+[647]",BAG,"19 km
+(12 mi)",1987-06-26
+50,12,38,0,COM,Varig Flight 797,Boeing 707-320C,"Bingerville, Côte d'Ivoire","APR
+[648]",ABJ,"18 km
+(11 mi)",1987-01-03
+50,5,45,0,COM,Balkan Bulgarian Airlines (LZ-TUR),Tupolev Tu-134,"Sofia, Bulgaria","APR
+[649]",SOF,"4 km
+(2.5 mi)",1984-01-10
+50,3,47,0,COM,Spantax Flight 995,McDonnell Douglas DC-10-30,"Málaga, Spain","TOF
+[650]",AGP,"0.45 km
+(0.28 mi)",1982-09-13
+50,6,44,0,COM,Aeropesca Colombia Flight 221,Vickers Viscount 745D,"Garzón, Colombia","ENR
+[651]",,,1981-08-26
+50,6,44,0,COM,Somali Airlines Flight 40,Fokker F27 Friendship 600,"Bal'ad District, Somalia","ENR
+[652]",,,1981-07-20
+50,4,46,0,COM,Olympic Airways Flight 830,NAMC YS-11A-500,"Servia, Greece","APR
+[653]",KZI,"19 km
+(11.9 mi)",1976-11-23
+50,6,44,0,MIL,Royal Air Force (XV216),Lockheed C-130K Hercules C.1P,"Ligurian Sea, near Pisa, Italy","ENR
+[654]",,,1971-11-09
+50,6,44,0,COM,"Hughes Airwest Flight 706 and
+US Marine Corps (151458)",McDonnell Douglas DC-9-31 and McDonnell Douglas F-4 Phantom II,"San Gabriel Mts., near Duarte, California, US","ENR
+[655][656]",,,1971-06-06
+50,5,43,2,COM,Ariana Afghan Airlines Flight 701,Boeing 727-113C,"Fernhill, England, UK","APR
+[657]",LGW,"2.5 km
+(1.6 mi)",1969-01-05
+50,5,45,0,COM,All Nippon Airways Flight 533,NAMC YS-11,"Seto Inland Sea, off Matsuyama, Shikoku, Japan","APR
+[658]",MYJ,"<1 km
+(0.6 mi)",1966-11-13
+50,5,45,0,COM,Iberia (EC-ATH),Convair CV-440-62,"Atlantic Ocean, off Tangier, Morocco","APR
+[659]",TNG,"18 km
+(11.3 mi)",1965-03-31
+50,5,45,0,COM,TWA Flight 800,Boeing 707-331,"Fiumicino, Italy","TOF
+[660]",FCO,,1964-11-23
+50,7,43,0,COM,Panair do Brasil (PP-PDE),Lockheed L-049 Constellation,"area of Manaus, Brazil","ENR
+[661]",,,1962-12-14
+50,4,46,0,COM,Capital Airlines Flight 20,Vickers Viscount 745D,"Holdcroft, Virginia, US","ENR
+[662][663]",,,1960-01-18
+50,5,45,0,COM,Scottish Airlines (G-ANSY),Avro York,"Żurrieq, Malta","ENR
+[664]",,,1956-02-18
+50,9,41,0,COM,Pan Am Flight 202,Boeing 377-10-26,"near Santana do Araguaia, Brazil","ENR
+[665][666]",,,1952-04-29
+50,6,44,0,COM,United Airlines Flight 615,Douglas DC-6B,"Union City, California, US","APR
+[667][668]",OAK,"22 km
+(14 mi)",1951-08-24
+50,5,45,0,COM,United Airlines Flight 610,Douglas DC-6,"near Fort Collins, Colorado, US","ENR
+[669][670]",,,1951-06-30
+50,3,47,0,COM,Pennsylvania Central Airlines Flight 410,Douglas C-54 Skymaster,"Shannondale, West Virginia, US","ENR
+[671]",,,1947-06-13
